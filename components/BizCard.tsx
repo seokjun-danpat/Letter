@@ -1,4 +1,5 @@
 import type { BizArticle } from "@/types/content";
+import ArticleChat from "@/components/ArticleChat";
 
 const CATEGORY_STYLE: Record<string, string> = {
   호재: "bg-red-100 text-red-700",
@@ -90,6 +91,11 @@ export default function BizCard({ article }: { article: BizArticle }) {
         <span>출처: {article.source}</span>
         <span>작성일: {article.publishedDate}</span>
       </div>
+
+      <ArticleChat
+        articleTitle={`[${article.company}] ${article.titleKo}`}
+        articleContext={`분류: ${article.category}${article.isRumor ? " (루머/미확인)" : ""}\n왜 주가에 영향을 주는가: ${article.whyItMoves}\n요약: ${article.summaryKo}\n핵심 내용: ${article.keyPoints.join(" / ")}`}
+      />
     </article>
   );
 }

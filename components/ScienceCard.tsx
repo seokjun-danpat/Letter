@@ -1,4 +1,5 @@
 import type { ScienceArticle } from "@/types/content";
+import ArticleChat from "@/components/ArticleChat";
 
 export default function ScienceCard({
   article,
@@ -60,6 +61,11 @@ export default function ScienceCard({
         <span>작성일: {article.publishedDate}</span>
         <span>원문 언어: {article.originalLanguage}</span>
       </div>
+
+      <ArticleChat
+        articleTitle={article.titleKo}
+        articleContext={`한줄요약: ${article.oneLiner}\n왜 중요한가: ${article.whyItMatters}\n요약: ${article.summaryKo}\n핵심 포인트: ${article.keyPoints.join(" / ")}`}
+      />
     </article>
   );
 }
