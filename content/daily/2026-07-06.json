@@ -1,0 +1,313 @@
+{
+  "date": "2026-07-06",
+  "rangeLabel": "2026년 7월 6일 (월)",
+  "isCombined": false,
+  "coveredDates": ["2026-07-06"],
+  "science": [
+    {
+      "titleKo": "AI가 밝혀낸 인간 언어의 '신경 코드'",
+      "titleOriginal": "Mapping the neuronal building blocks of human language with language models",
+      "oneLiner": "대화 중인 사람의 뇌 속 개별 신경세포 활동을 AI 언어모델로 분석해, 특정 세포가 '의미'와 '문법'을 각각 나누어 처리한다는 사실을 밝혀냈다.",
+      "whyItMatters": "언어가 뇌에서 어떻게 조립되는지에 대한 오랜 질문에 세포 단위의 직접적 증거를 제시했으며, 향후 실어증 환자 등을 위한 '생각을 말로 바꾸는' 뇌-기계 인터페이스 기술의 기초가 될 수 있다.",
+      "summaryKo": "연구팀은 대화 중인 참가자의 전두측두엽(frontotemporal cortex)에서 단일 신경세포 활동을 기록하고, 이를 머신러닝 언어모델과 대조 분석했다. 그 결과 개별 신경세포 대부분이 단어의 '의미'와 문장의 '문법 구조' 중 한쪽만을 전담해서 인코딩한다는 역할 분담이 확인됐다. 발화 직전의 신경 신호만으로도 이후 말할 문장의 주제와 구조를 상당 부분 예측할 수 있었다.",
+      "keyPoints": [
+        "뇌 신경세포가 의미(semantics)와 문법(syntax)을 분업 처리",
+        "발화 몇 초 전 신경 신호로 이후 문장의 속성 예측 가능",
+        "실어증 등 언어 장애 환자용 뇌-기계 인터페이스 개발에 응용 가능성"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-10691-5",
+      "source": "Nature",
+      "publishedDate": "2026-06-17",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "양자역학으로 '시간을 거꾸로' 돌리는 데 성공하다",
+      "titleOriginal": "Scientists make quantum time flow backward in stunning physics breakthrough",
+      "oneLiner": "로스앨러모스 국립연구소 연구팀이 정밀한 양자 측정·피드백 제어로 양자 시스템의 '시간의 화살'을 억제하거나 역전시키고, 그 과정에서 에너지까지 추출하는 데 성공했다.",
+      "whyItMatters": "19세기 사고실험 '맥스웰의 악마'를 실제 양자 시스템에서 구현한 사례로, 차세대 양자컴퓨터·양자배터리 개발의 새로운 제어 기법으로 이어질 수 있다.",
+      "summaryKo": "연구팀은 측정, 피드백, 맞춤형 제어장을 결합해 양자 시스템이 자연스럽게 갖는 시간 방향성(엔트로피 증가 방향)을 억제하거나 겉보기에 역전시키는 기법을 개발했다. 이를 응용해 시스템을 '관측'하는 행위 자체에서 에너지를 뽑아내는 '측정 기반 엔진'을 시연했다. 해당 연구는 2026년 2월 Physical Review X에 게재됐으며, 최근 다시 주목받으며 보도되고 있다.",
+      "keyPoints": [
+        "측정·피드백만으로 양자 시스템의 시간 방향성 조작",
+        "측정 과정에서 에너지를 추출하는 '측정 엔진' 시연",
+        "향후 양자컴퓨터·양자배터리 기술에 응용 가능"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014802.htm",
+      "source": "ScienceDaily (원 논문: Physical Review X)",
+      "publishedDate": "2026-07-03",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "\"기후를 식히려다 엘니뇨를 흔든다\"…지구공학의 의외의 부작용",
+      "titleOriginal": "A popular climate fix could accidentally trigger massive changes to global weather",
+      "oneLiner": "동태평양 상공의 해양 구름을 인위적으로 밝게 만드는 지구공학 기법이 엘니뇨 진폭을 약 61% 줄일 수 있다는 시뮬레이션 결과가 나왔다.",
+      "whyItMatters": "지구 냉각을 위한 지구공학 개입이 지역 기상 시스템에 예상치 못한 큰 변화를 일으킬 수 있음을 보여주는 경고성 연구다.",
+      "summaryKo": "UC 산타바바라 연구팀은 '해양 구름 밝기 증대(MCB)'와 '성층권 에어로졸 분사(SAI)' 두 지구공학 전략을 비교 시뮬레이션했다. 그 결과 MCB를 동태평양에 적용하면 엘니뇨-남방진동(ENSO)의 진폭이 크게 줄어드는 반면, SAI는 엘니뇨에 거의 영향을 주지 않는 것으로 나타났다. 연구진은 \"엘니뇨가 이렇게 빠르게 변하기는 어렵다\"며, 동일한 냉각 목표라도 기법에 따라 지역 기후에 전혀 다른 영향을 줄 수 있다고 경고했다.",
+      "keyPoints": [
+        "동태평양 해양 구름 밝기 증대 시 엘니뇨 진폭 약 61% 감소",
+        "성층권 에어로졸 분사(SAI)는 엘니뇨에 뚜렷한 영향 없음",
+        "동일한 냉각 목표라도 기법별 지역 기후 영향은 크게 다름"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626030448.htm",
+      "source": "ScienceDaily (원 논문: Earth's Future)",
+      "publishedDate": "2026-07-03",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "미국 건국 250주년, 허블이 포착한 '별들의 불꽃놀이'",
+      "titleOriginal": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "oneLiner": "허블 우주망원경이 미국 독립 250주년을 기념해 약 130억 년 된 초고령 구상성단 NGC 6426을 붉은색·흰색·파란색으로 촬영했다.",
+      "whyItMatters": "우주 초기의 화학 조성과 별의 세대교체 과정을 보여주는 이미지로, 행성과 생명을 이루는 원소들이 어떻게 만들어졌는지 이해하는 단서를 제공한다.",
+      "summaryKo": "허블 우주망원경은 우리 은하에서 가장 오래된 구상성단 중 하나인 NGC 6426을 관측했다. 사진 속 파란색은 뜨거운 별을, 붉은색은 상대적으로 차가운 별을 나타낸다. 이 성단은 금속 함량이 매우 낮아 초기 우주의 화학적 구성을 그대로 간직하고 있으며, 과거 초신성 폭발로 흩뿌려진 무거운 원소가 다음 세대 별 형성에 영향을 미친 흔적도 담고 있다.",
+      "keyPoints": [
+        "약 130억 년 된 초고령 구상성단 NGC 6426 관측",
+        "낮은 금속 함량으로 초기 우주 화학 조성 반영",
+        "초신성 잔해가 다음 세대 별 형성에 미친 영향 확인"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
+      "source": "NASA (ScienceDaily 경유 보도)",
+      "publishedDate": "2026-07-05",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "잘려나간 해삼 조직, 3년 넘게 \"죽지 않고\" 살아있다",
+      "titleOriginal": "The secret to immortality might be a sea cucumber",
+      "oneLiner": "대서양 해삼(Psolus fabricii)에서 절단되어 떨어져 나온 관족·촉수 조직이 별도의 개체로 재생하지 않으면서도 3년 넘게 상처를 스스로 치유하고 성장을 계속했다.",
+      "whyItMatters": "몸 전체와 분리된 조직이 장기간 생존·성장하는 현상은 세포 노화와 재생 연구에 새로운 실마리를 제공할 수 있다.",
+      "summaryKo": "연구팀은 수조를 옮기던 중 해삼이 남기고 간 작은 관 모양 부속지가 며칠이 지나도 그대로 살아있는 것을 우연히 발견했다. 몸통 조직은 몇 주 안에 죽었지만, 관족과 촉수 조직은 표지된 아미노산을 흡수하며 상처를 치유하고 세포분열을 이어갔다. 수년이 지난 지금도 이 조직은 촉각 자극에 반응해, 신경망이 여전히 살아있음을 보여준다. 연구팀은 이를 \"작은 실험실 좀비\"라 부르며, 살아있는지 죽어있는지 불명확한 생물학적 회색지대로 설명한다.",
+      "keyPoints": [
+        "해삼에서 분리된 조직이 3년 이상 자연 해수 속에서 생존·성장",
+        "몸통과 분리되어도 새 개체로 재생되지는 않음",
+        "일부 학자는 \"불멸\"이라 부르기엔 시기상조라는 신중한 입장도 제기"
+      ],
+      "url": "https://www.scientificamerican.com/article/the-secret-to-immortality-might-be-a-sea-cucumber/",
+      "source": "Scientific American",
+      "publishedDate": "2026-05-27",
+      "originalLanguage": "영어"
+    }
+  ],
+  "business": [
+    {
+      "company": "삼성전자",
+      "titleKo": "삼성전자, 2분기 영업이익 18배 급증 전망…반도체 슈퍼사이클 정점",
+      "titleOriginal": "Samsung Earnings Poised to Guide Chip Stocks After AI Rally Pullback",
+      "impactStars": 5,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "7월 7일 발표 예정인 2분기 잠정실적이 사상 최대치로 예상되어, 국내외 반도체·AI 관련주 전반의 투자심리를 좌우할 핵심 변수다.",
+      "summaryKo": "삼성전자는 6월까지 분기 잠정 영업이익이 약 84.3~85.5조 원(약 551억 달러)에 달해 전년 동기 대비 약 18배 급증, 사상 최고치를 기록할 것으로 예상된다. 매출도 약 169조 원으로 전년 대비 127% 급증할 전망이다. AI 반도체 랠리 이후 조정 국면에 들어간 칩 관련주 투자자들이 이번 실적 발표를 반등의 신호탄으로 주목하고 있다.",
+      "keyPoints": [
+        "2분기 잠정 영업이익 약 84.3조~85.5조 원, 전년 대비 약 18배 증가 전망",
+        "매출은 약 169조 원으로 전년 대비 127% 급증 예상",
+        "메모리 반도체 슈퍼사이클과 AI 데이터센터 수요가 실적 견인"
+      ],
+      "quotes": [
+        "Samsung is projected to report preliminary operating profit of 84.3 trillion won ($55.1 billion) for the quarter ended June, marking an 18-fold jump from a year ago."
+      ],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/chip-stock-bulls-count-on-samsung-to-soothe-ai-trade-jitters",
+      "source": "Bloomberg, Seoul Economic Daily",
+      "publishedDate": "2026-07-05"
+    },
+    {
+      "company": "삼성전자",
+      "titleKo": "[루머] 앤스로픽, 삼성전자와 커스텀 AI 칩 위탁생산 논의 중",
+      "titleOriginal": "Anthropic in Talks With Samsung for Custom AI Chip",
+      "impactStars": 4,
+      "category": "루머",
+      "isRumor": true,
+      "whyItMoves": "사실로 확정될 경우 삼성 파운드리의 2나노 공정·첨단 패키징 사업에 대형 고객이 추가되는 것으로, 파운드리 부문 재평가로 이어질 수 있다.",
+      "summaryKo": "[확인되지 않은 정보] The Information 보도를 인용한 복수 매체에 따르면, 앤스로픽이 자체 커스텀 AI 칩 생산을 위해 삼성전자와 논의 중이며 삼성의 2나노 공정과 첨단 패키징 시설을 검토하고 있다고 한다. 다만 칩의 용도, 성능, 서버 내 활용 방식 등은 아직 초기 단계로 결정되지 않았다. 앤스로픽 측은 공식적으로 구글·아마존·엔비디아 칩을 포함한 \"다변화된 하드웨어 스택\"이 컴퓨팅 전략의 핵심이라고만 밝혔을 뿐, 삼성과의 논의 자체는 공식 확인하지 않았다.",
+      "keyPoints": [
+        "The Information 단독 보도를 다수 매체가 인용 (양사 공식 확인 없음)",
+        "삼성의 2나노 파운드리 공정 및 첨단 패키징 검토 중이라는 보도",
+        "앤스로픽은 전직 오픈AI 커스텀칩 담당자를 영입해 개발 착수 신호"
+      ],
+      "quotes": [
+        "Anthropic is in talks with Samsung Electronics to be a manufacturing partner for a custom artificial intelligence chip... Anthropic's plans are at an early stage."
+      ],
+      "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "source": "TechCrunch, Bloomberg (원보도: The Information)",
+      "publishedDate": "2026-07-02"
+    },
+    {
+      "company": "SK하이닉스",
+      "titleKo": "SK하이닉스-엔비디아, AI 메모리 다년간 기술 파트너십 체결",
+      "titleOriginal": "NVIDIA and SK hynix Announce Multiyear Technology Partnership to Advance Memory for AI Factories",
+      "impactStars": 4,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "엔비디아의 차세대 AI 플랫폼(Vera Rubin 등) 전 라인업에 걸친 메모리 공급·공동개발 관계를 공식화한 것으로, SK하이닉스의 HBM 공급 주도권과 장기 실적 가시성을 뒷받침한다.",
+      "summaryKo": "SK하이닉스와 엔비디아는 AI 팩토리용 차세대 메모리 공동개발 및 반도체 설계·제조 가속화를 위한 다년간 기술 파트너십을 발표했다. SK하이닉스는 엔비디아의 Vera Rubin AI 슈퍼컴퓨터, Vera CPU, RTX Spark, Jetson Thor 플랫폼용 메모리를 개발하며, 엔비디아의 CUDA-X, Omniverse 등을 활용해 반도체 시뮬레이션과 팹 디지털 트윈 구축도 함께 추진한다. 시장에서는 SK하이닉스가 엔비디아 HBM4 물량의 약 70%를 확보한 것으로 알려져 있다.",
+      "keyPoints": [
+        "엔비디아 차세대 플랫폼 전반에 걸친 메모리 공동개발 파트너십 체결",
+        "SK하이닉스, 엔비디아 HBM4 물량 약 70% 확보설(시장 추정)",
+        "반도체 설계·제조 시뮬레이션에 엔비디아 AI 툴 활용 예정"
+      ],
+      "quotes": [
+        "AI factories are the engines of the next industrial revolution, and advanced memory is essential to their performance. – NVIDIA CEO Jensen Huang",
+        "Together, we are codeveloping the next generation of memory for AI factories. – SK Group Chairman Chey Tae-won"
+      ],
+      "url": "https://nvidianews.nvidia.com/news/sk-hynix-ai-factory",
+      "source": "NVIDIA Newsroom (공식 보도자료)",
+      "publishedDate": "2026-06-07"
+    },
+    {
+      "company": "현대자동차그룹",
+      "titleKo": "현대차그룹, 영남권에 10년간 42조 원 투자…AI 자율주행·항공우주 허브 구축",
+      "titleOriginal": "Hyundai Motor Group to Foster Advanced Industry Hub in Korea's Yeongnam Region to Spur Future Growth",
+      "impactStars": 3,
+      "category": "중립",
+      "isRumor": false,
+      "whyItMoves": "초대형 국내 투자 계획은 향후 성장동력 확보로 긍정적이나, 단기적으로는 대규모 설비투자(capex) 부담 요인으로도 해석될 수 있어 시장 반응이 엇갈릴 수 있다.",
+      "summaryKo": "현대차그룹은 향후 10년간 한국 영남권에 약 42조 원을 투자해 AI 기반 자율주행차(AI DV) 생산 허브, 배터리·모터 등 핵심부품 클러스터, 항공우주·달 탐사 로버 개발, 소형모듈원자로(SMR) 등 지속가능 에너지 인프라를 구축한다고 발표했다. 울산 EV 전용 공장은 2026년 4분기 가동을 목표로 하고 있다.",
+      "keyPoints": [
+        "10년간 약 42조 원 규모 영남권 투자 발표",
+        "울산 EV 전용 공장 2026년 4분기 가동 예정",
+        "자율주행(AI DV), 항공우주, SMR 등 미래사업 다각화 포함"
+      ],
+      "quotes": [],
+      "url": "https://www.hyundai.com/worldwide/en/newsroom/detail/0000001214",
+      "source": "Hyundai Motor Group Newsroom (공식 보도자료)",
+      "publishedDate": "2026-07-03"
+    },
+    {
+      "company": "기아",
+      "titleKo": "기아, 상반기 역대 최대 판매실적…EV 판매 2배 이상 급증",
+      "titleOriginal": "Kia Announces June 2026 Global Sales Results",
+      "impactStars": 4,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "분기 실적 발표를 앞두고 나온 실적 선행지표로, 시장의 실적 눈높이를 직접적으로 끌어올릴 수 있는 데이터다.",
+      "summaryKo": "기아는 2026년 6월 글로벌 판매량 29만 5,720대(전년 대비 9.5% 증가)를 기록했으며, 상반기 누적 판매는 163만 988대로 1962년 자동차 판매 개시 이래 최대 상반기 실적을 달성했다. 특히 한국 내 전기차(EV) 판매는 상반기 7만 2,078대로 전년 동기(2만 8,706대) 대비 2배 이상 급증했다. 스포티지, 셀토스 등 SUV 라인업과 EV3가 실적을 견인했다.",
+      "keyPoints": [
+        "6월 글로벌 판매 29만 5,720대(+9.5% YoY)",
+        "상반기 누적 163만 988대로 역대 최대 상반기 기록",
+        "한국 EV 판매 상반기 기준 전년 대비 2배 이상 증가"
+      ],
+      "quotes": [
+        "Kia has sustained year-over-year global sales growth for four consecutive months."
+      ],
+      "url": "https://www.hyundaimotorgroup.com/en/news/kia-announces-june-2026-global-sales-results",
+      "source": "Hyundai Motor Group Newsroom (공식 보도자료)",
+      "publishedDate": "2026-07-01"
+    },
+    {
+      "company": "LG에너지솔루션",
+      "titleKo": "LG에너지솔루션-혼다 오하이오 합작공장, EV 대신 ESS 배터리로 가동 개시",
+      "titleOriginal": "South Korea's LG, Honda start Ohio storage battery output",
+      "impactStars": 3,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "당초 EV 배터리용으로 설계된 대규모 미국 공장이 수요 둔화 속에서도 에너지저장장치(ESS) 사업으로 성공적으로 전환·가동에 들어간 것은 매출 다각화 측면에서 긍정적 신호다.",
+      "summaryKo": "LG에너지솔루션과 혼다의 미국 합작법인 L-H Battery Company가 오하이오주 제퍼슨빌 공장에서 에너지저장장치(ESS)용 리튬이온 배터리 셀 양산을 시작했다. 당초 전기차 배터리 생산을 목표로 35억 달러를 투자해 지어진 이 공장은, 미국 정부의 EV 보조금 폐지와 수요 둔화에 따라 ESS 중심으로 전략을 신속히 전환했다. 연간 생산능력은 40GWh이며, 회사는 연말까지 북미 6개 거점에서 50GWh 이상의 ESS 생산능력을 확보할 계획이다.",
+      "keyPoints": [
+        "오하이오 공장, EV에서 ESS 배터리 생산으로 전략 전환 후 양산 개시",
+        "연간 생산능력 40GWh, 총 투자 규모 약 44억 달러",
+        "연말까지 북미 6개 거점서 ESS 생산능력 50GWh 이상 확보 목표"
+      ],
+      "quotes": [],
+      "url": "https://www.upi.com/Top_News/World-News/2026/07/03/biz-united-states-lg-energy-solution-honda/9031783130198/",
+      "source": "UPI",
+      "publishedDate": "2026-07-03"
+    },
+    {
+      "company": "네이버 / 카카오",
+      "titleKo": "네이버·카카오, AI 성과 지연에 목표주가 잇단 하향",
+      "titleOriginal": "Naver, Kakao Price Targets Cut Again as AI Hopes Fade Despite Share Rebound",
+      "impactStars": 4,
+      "category": "악재",
+      "isRumor": false,
+      "whyItMoves": "다수 증권사의 동시다발적 목표주가 하향은 밸류에이션에 직접적인 하방 압력을 가하는 요인이다.",
+      "summaryKo": "네이버를 커버하는 11개 증권사 중 9곳이 목표주가를 하향 조정했으며, 카카오 목표주가도 7만 5,000원에서 6만 5,000원으로 낮아졌다. 양사의 영업이익·매출 추정치도 각각 4%, 10.3% 하락했다. 애널리스트들은 두 회사가 AI 사업에서 아직 뚜렷한 수익화 성과를 내지 못하고 있다고 지적한다.",
+      "keyPoints": [
+        "네이버 커버 11개 증권사 중 9곳 목표주가 하향",
+        "카카오 목표주가 7.5만 원 → 6.5만 원으로 하향",
+        "양사 영업이익·매출 추정치 각각 4%, 10.3% 하락"
+      ],
+      "quotes": [
+        "AI 개발 속도와 글로벌 AI 플랫폼의 급속한 발전을 감안하면 'AI 디레이팅'이 더욱 심화될 가능성이 높다 – DS투자증권 최승호 애널리스트",
+        "카카오의 AI 사업이 너무 천천히 진행되고 있다 – 신한증권 강석오 선임애널리스트"
+      ],
+      "url": "https://en.bloomingbit.io/feed/news/109926",
+      "source": "BigGo Finance (Bloomingbit)",
+      "publishedDate": "2026-06-14"
+    },
+    {
+      "company": "셀트리온",
+      "titleKo": "셀트리온, 2분기 사상 최대 실적…고마진 바이오시밀러가 견인",
+      "titleOriginal": "Celltrion Sets Record Earnings on High-Margin Products",
+      "impactStars": 5,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "시장 예상을 크게 웃도는 실적 서프라이즈로, 제품 구조 개선에 따른 수익성 개선이 확인된 만큼 밸류에이션 재평가로 이어질 수 있다.",
+      "summaryKo": "셀트리온은 2분기 매출 1조 3,000억 원, 영업이익 430억 원(전년 대비 각각 35.2%, 77.3% 증가)을 기록해 사상 최대 분기 실적을 달성했다. 짐펜트라, 스테케이마 등 신약 바이오시밀러 제품이 전체 매출의 60% 이상을 차지하며 고마진 구조로 전환됐다.",
+      "keyPoints": [
+        "2분기 매출 1.3조 원(+35.2%), 영업이익 430억 원(+77.3%)",
+        "짐펜트라·스테케이마 등 신약 바이오시밀러 비중 60% 이상",
+        "고비용 재고 소진 및 생산 수율 개선으로 수익성 강화"
+      ],
+      "quotes": [
+        "Changes in the product structure, depletion of high-cost inventory, and improved production yields led to enhanced profitability.",
+        "The biosimilar industry has a characteristic in which revenue expands in the second half."
+      ],
+      "url": "https://en.sedaily.com/finance/2026/07/03/celltrion-sets-record-earnings-on-high-margin-products",
+      "source": "Seoul Economic Daily (UPI 동시 보도)",
+      "publishedDate": "2026-07-03"
+    },
+    {
+      "company": "한화에어로스페이스",
+      "titleKo": "대전 공장 폭발사고 수사 확대…김동관 부회장 입건 가능성",
+      "titleOriginal": "Police leave open possibility of expanding probe into deadly Daejeon Hanwha explosion",
+      "impactStars": 4,
+      "category": "악재",
+      "isRumor": false,
+      "whyItMoves": "그룹 경영전략을 총괄하는 부회장급 인사에 대한 형사 입건 가능성은 지배구조·경영 리스크로 직결되어 투자심리에 부담을 줄 수 있다.",
+      "summaryKo": "지난 6월 1일 대전 한화에어로스페이스 공장에서 발생해 5명이 숨진 폭발 사고와 관련해, 경찰과 노동당국이 손재일 대표에 이어 김동관 부회장까지 중대재해처벌법 위반으로 추가 입건할 가능성을 열어두고 있다. 수사팀은 압수된 문서 5,700여 건과 포렌식 증거를 분석 중이며, 사고는 특정 건물 청소 작업 중 발생한 것으로 추정된다.",
+      "keyPoints": [
+        "6월 1일 대전 공장 폭발사고로 5명 사망",
+        "손재일 대표는 이미 중대재해처벌법으로 기소, 김동관 부회장 추가 입건 가능성 검토 중",
+        "압수 문서 5,700여 건 등 포렌식 증거 분석 진행 중"
+      ],
+      "quotes": [
+        "현장이 폭발로 완전히 소각되어 점화 근원과 시작점을 파악해야 합니다 – 노동청 관계자"
+      ],
+      "url": "https://www.koreajoongangdaily.com/business/hanwha-vice-chairman-could-be-named-as-suspect-in-deadly-daejeon-explosion/12752510",
+      "source": "Korea JoongAng Daily",
+      "publishedDate": "2026-07-02"
+    },
+    {
+      "company": "HD현대",
+      "titleKo": "HD현대, 베트남 항만 크레인 첫 수주…생산기지 확장 가속",
+      "titleOriginal": "HD Hyundai Wins First Port Crane Order at Vietnam Base",
+      "impactStars": 2,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "계약 규모 자체는 작지만, 베트남 생산기지 'HD Hyundai Ecovina' 출범 후 첫 수주라는 점에서 향후 동남아 항만기자재 시장 진출 확대의 신호로 해석될 수 있다.",
+      "summaryKo": "HD현대의 베트남 생산기지 HD Hyundai Ecovina가 남부 베트남 물류 허브인 SSIT 터미널에 대형 항만 크레인(RMQC) 2대를 공급하는 약 2,000만 달러(약 300억 원) 규모 계약을 체결했다. 설계부터 제조, 설치, 시운전까지 전 과정을 자체 수행하며, 인력을 3,000명으로 두 배 확충하는 등 생산능력 확장도 함께 추진 중이다.",
+      "keyPoints": [
+        "베트남 첫 항만 크레인 수주, 계약 규모 약 2,000만 달러(약 300억 원)",
+        "HD Hyundai Ecovina 출범(작년 12월) 이후 첫 항만기자재 프로젝트",
+        "인력 3,000명으로 확충 등 생산능력 확장 병행"
+      ],
+      "quotes": [
+        "HD Hyundai Ecovina recently signed a contract to supply two large port loading cranes (RMQC) to SP-SSA International Terminal (SSIT), a key logistics hub in southern Vietnam."
+      ],
+      "url": "https://en.sedaily.com/news/2026/07/03/hd-hyundai-wins-first-port-crane-order-at-vietnam-base",
+      "source": "Seoul Economic Daily",
+      "publishedDate": "2026-07-03"
+    }
+  ],
+  "summary": {
+    "scienceTop3": [
+      "뇌 신경세포가 언어의 '의미'와 '문법'을 나누어 처리한다는 사실을 AI로 밝혀낸 Nature 연구",
+      "측정만으로 양자 시스템의 시간을 거꾸로 돌리고 에너지까지 뽑아낸 양자물리학 실험",
+      "몸에서 떨어져 나온 해삼 조직이 3년 넘게 죽지 않고 살아있는 '생물학적 불멸' 사례"
+    ],
+    "bizTop5": [
+      "삼성전자 2분기 잠정실적, 전년 대비 18배 급증한 사상 최대 영업이익 전망",
+      "셀트리온 2분기 사상 최대 실적, 고마진 바이오시밀러가 견인",
+      "SK하이닉스-엔비디아 다년간 메모리 기술 파트너십 공식 체결",
+      "한화에어로스페이스 대전 폭발사고 수사, 김동관 부회장 입건 가능성 부상",
+      "네이버·카카오 AI 성과 지연으로 증권사 목표주가 잇단 하향"
+    ]
+  }
+}
