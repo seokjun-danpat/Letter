@@ -1,0 +1,300 @@
+{
+  "date": "2026-07-07",
+  "rangeLabel": "2026년 7월 7일 (화)",
+  "isCombined": false,
+  "coveredDates": ["2026-07-07"],
+  "science": [
+    {
+      "titleKo": "LIGO가 포착한 이상한 중력파, '태초의 블랙홀' 존재 가능성 키워",
+      "titleOriginal": "A strange LIGO signal could reveal the missing link behind dark matter",
+      "oneLiner": "작년 11월 미국 중력파 관측소 라이고(LIGO)가 태양보다 가벼운 미스터리 천체가 충돌하며 낸 신호를 포착했는데, 과학자들은 이게 우주 탄생 직후 만들어진 '태초의 블랙홀'일 수 있다고 봐요.",
+      "whyItMatters": "우주 전체 물질의 대부분을 차지한다는 정체불명의 '암흑물질'이 사실은 이런 초소형 블랙홀들일 수도 있다는 오래된 가설을 뒷받침하는 첫 실마리가 될 수 있어서 중요해요.",
+      "summaryKo": "별이 죽으면서 폭발(초신성)해야 블랙홀이 만들어진다고 알려져 있는데, 그러려면 블랙홀 질량이 태양보다 훨씬 커야 해요. 그런데 작년 11월 라이고가 잡아낸 신호는 두 천체 중 하나의 질량이 태양보다 가벼웠어요. 이건 일반적인 블랙홀 탄생 방식으로는 설명이 안 돼요. 미국 마이애미대 연구팀은 이 신호가 빅뱅 직후 밀도가 아주 높았던 공간이 쪼그라들며 만들어진 '태초의 블랙홀' 두 개가 충돌한 것이라는 분석 결과를 내놨어요. 아직 이런 신호가 딱 한 번밖에 관측되지 않아서 확실한 결론은 아니고, 앞으로 비슷한 신호가 더 잡혀야 확실해진다고 해요.",
+      "keyPoints": [
+        "작년 11월 라이고가 포착한 중력파 신호, 천체 하나의 질량이 태양보다 가벼워 일반적인 블랙홀 탄생 방식으로 설명 안 됨",
+        "연구팀은 이를 빅뱅 직후 만들어진 '태초의 블랙홀' 두 개의 충돌로 해석",
+        "사실이라면 정체불명의 암흑물질이 태초의 블랙홀일 수 있다는 가설을 뒷받침"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125703.htm",
+      "source": "ScienceDaily (원 논문: The Astrophysical Journal)",
+      "publishedDate": "2026-06-26",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "1초 만에 피를 멎게 하는 국산 스프레이 가루, 이렇게 만들었다",
+      "titleOriginal": "This spray-on powder can stop life-threatening bleeding in 1 second",
+      "oneLiner": "KAIST 연구팀이 상처에 뿌리기만 하면 피가 닿는 순간 1초 만에 젤로 굳어 심한 출혈까지 막아주는 가루를 만들었어요.",
+      "whyItMatters": "총상처럼 크고 불규칙한 상처는 지금까지 나온 지혈 제품으로는 막기 어려웠는데, 이 가루는 그런 상처에도 효과가 있어서 전쟁터나 응급실에서 생명을 구하는 데 큰 도움이 될 수 있어요.",
+      "summaryKo": "KAIST 신소재공학과 박steve Park 교수팀과 생명과학과 전상용 교수팀은 군인 신분으로 박사과정을 밟고 있는 박규순 씨 등과 함께 'AGCL 파우더'라는 지혈제를 개발했어요. 이 가루는 해조류에서 뽑은 알지네이트·젤란검, 게 껍데기 성분인 키토산 등 몸에 해롭지 않은 재료로 만들어졌어요. 상처에 뿌리면 피 속 칼슘 성분과 만나 순식간에 끈적한 젤로 변하면서 상처를 막아버려요. 동물 실험에서는 간처럼 지혈이 어려운 장기의 상처에도 효과가 있었고, 상온의 습한 곳에 2년을 둬도 성능이 그대로였대요. 이 연구는 2025년 10월 국제학술지 '어드밴스드 펑셔널 머티리얼즈'에 발표됐는데, 최근 다시 주목받고 있어요.",
+      "keyPoints": [
+        "KAIST가 개발한 'AGCL 파우더', 피에 닿으면 약 1초 만에 젤로 굳어 상처를 막음",
+        "해조류·게 껍데기 유래 성분 등 인체에 안전한 재료로만 제작",
+        "간 손상 등 지혈이 어려운 상처에도 효과 확인, 2년간 성능 유지"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625014835.htm",
+      "source": "ScienceDaily (원 논문: Advanced Functional Materials, 2025-10-28)",
+      "publishedDate": "2026-06-25",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "가로등 불빛이 만든 '죽음의 소용돌이'... 쥐며느리 5000마리가 뱅글뱅글",
+      "titleOriginal": "Streetlights are trapping thousands of isopods in giant \"death spirals\"",
+      "oneLiner": "이스라엘 골란고원에서 가로등 밑에 쥐며느리 5000마리 넘게 모여들어 밤새 원을 그리며 뱅글뱅글 도는 신기한 행동이 처음으로 관찰됐어요.",
+      "whyItMatters": "동물들이 무리지어 움직이는 건 흔하지만, 사람이 만든 가로등 불빛 때문에 벌레들이 이렇게 이상한 집단 행동을 하게 된다는 건 아무도 예상 못 했던 일이라 신기해요.",
+      "summaryKo": "히브리대 박사과정생 이단 셰이자프와 아리엘 치프먼 교수팀은 아마추어 자연 관찰자가 제보한 영상을 보고 이 행동을 연구했어요. '아르마딜로 소르디두스'라는 쥐며느리 종은 평소엔 돌 밑이나 축축한 곳에 혼자 숨어 지내는데, 여름밤 가로등 밑에서는 수천 마리가 모여 마치 소용돌이처럼 둥글게 줄지어 도는 행동을 보였어요. 연구팀은 위에서 비추는 가로등 불빛이 땅에 둥근 경계선을 만들고, 쥐며느리들이 그 경계선을 따라 걷다 보니 이런 모양이 생긴 것으로 추정해요. 한 번 시작되면 이 소용돌이는 쥐며느리들에게 아무 도움도 안 되는데 계속 이어졌고, 지네 한 마리가 몰려든 쥐며느리를 잡아먹는 모습도 관찰됐어요.",
+      "keyPoints": [
+        "쥐며느리(아르마딜로 소르디두스) 5000마리 이상이 가로등 밑에서 원형 행렬을 이루는 모습 첫 관찰",
+        "가로등이 만든 둥근 빛 경계를 따라 걷다가 소용돌이 행동이 스스로 강화되는 것으로 추정",
+        "이 행동은 쥐며느리에게 이득이 없고, 오히려 포식자(지네)의 손쉬운 사냥터가 됨"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260626125707.htm",
+      "source": "ScienceDaily (원 논문: Ecology and Evolution)",
+      "publishedDate": "2026-07-06",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "5500년 전에도 '팬데믹'이 있었다... 인류 최고(最古)의 흑사병 흔적 발견",
+      "titleOriginal": "Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago",
+      "oneLiner": "시베리아 바이칼호 근처에 살던 수렵채집인 무덤에서 지금까지 발견된 것 중 가장 오래된 페스트균 흔적이 나왔는데, 감염자의 40%가 그 세균을 갖고 있었을 만큼 크게 번졌대요.",
+      "whyItMatters": "옛날 페스트균은 약했다가 나중에 강해졌다는 기존 가설을 뒤집는 발견이라, 전염병이 인류 역사에 언제부터 큰 영향을 미쳤는지 다시 생각하게 만들어요.",
+      "summaryKo": "케임브리지대와 코펜하겐대 공동 연구팀은 바이칼호 근처 4곳의 무덤에서 나온 사람 뼈의 치아 속 DNA를 분석했어요. 그 결과 조사한 46명 중 18명(40%)에게서 페스트를 일으키는 세균인 '예르시니아 페스티스'의 DNA가 나왔는데, 이는 중세 흑사병 시절 집단 매장지보다도 높은 비율이에요. 특히 8~11살 어린이 희생자가 유독 많았고, 형제자매나 부모-자식이 함께 짧은 기간 안에 묻힌 흔적도 있었어요. 이 5500년 전 균은 벼룩을 통해 옮는 능력은 아직 없었지만(그 능력은 약 3800년 전에 생겼다고 알려짐), 대신 폐로 들어가 호흡기를 통해 퍼지는 방식으로 사람들을 죽였을 것으로 연구팀은 추정해요.",
+      "keyPoints": [
+        "바이칼호 수렵채집인 무덤 조사 대상 46명 중 40%(18명)에서 페스트균 DNA 검출",
+        "8~11세 어린이 희생자가 유독 많아 치명적인 발병이었음을 시사",
+        "벼룩 매개 흑사병(약 3800년 전 등장)과 달리, 호흡기 감염(폐페스트) 형태로 추정"
+      ],
+      "url": "https://www.nature.com/articles/s41586-026-10540-5",
+      "source": "Nature",
+      "publishedDate": "2026-06-17",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "AI가 스스로 알고리즘을 개선해 DNA 오류와 양자컴퓨터 오류를 확 줄였다",
+      "titleOriginal": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "oneLiner": "구글 딥마인드가 만든 AI '알파에볼브'가 스스로 컴퓨터 알고리즘을 고치고 개선해서, DNA 분석 오류를 30% 줄이고 양자컴퓨터 계산 오류는 10분의 1로 줄이는 성과를 냈어요.",
+      "whyItMatters": "사람이 몇 달씩 걸려도 고치기 힘든 복잡한 프로그램의 '숨은 코드'를 AI가 스스로 찾아 개선한다는 걸 보여준 사례라, 앞으로 여러 과학 분야의 연구 속도를 크게 높일 수 있어요.",
+      "summaryKo": "'알파에볼브'는 구글의 제미나이 AI를 기반으로 만들어진 프로그램으로, 사람이 짠 알고리즘(계산 방법)을 스스로 이리저리 바꿔보면서 더 나은 버전을 찾아내는 게 특기예요. 공개된 지 1년이 된 지금, 이 AI는 DNA를 읽어내는 프로그램(딥컨센서스)을 개선해서 유전자 변이를 잘못 찾아내는 오류를 30% 줄였어요. 또 구글의 최신 양자컴퓨터 칩 '윌로우'에서 분자를 시뮬레이션할 때 쓰는 회로를 최적화해서, 기존보다 오류가 10분의 1 수준인 회로를 찾아냈어요. 이 밖에도 전력망 운영, 물류 경로 최적화, 데이터베이스 성능 개선 등 실생활과 맞닿은 여러 분야에서 성과를 냈어요.",
+      "keyPoints": [
+        "AI가 DNA 분석 프로그램을 개선해 유전자 변이 오류 30% 감소",
+        "구글 양자컴퓨터 '윌로우'용 회로를 최적화해 오류를 10분의 1로 줄임",
+        "저명 수학자 테렌스 타오도 '수학자에게 매우 유용한 새로운 능력을 준다'고 평가"
+      ],
+      "url": "https://deepmind.google/blog/alphaevolve-impact/",
+      "source": "Google DeepMind (공식 블로그)",
+      "publishedDate": "2026-05-07",
+      "originalLanguage": "영어"
+    }
+  ],
+  "business": [
+    {
+      "company": "삼성전자",
+      "titleKo": "삼성전자, 2분기 영업이익 89.4조원 사상 최대…전년비 19배 폭증",
+      "titleOriginal": "Samsung Q2 profit hits record W89.4tr, up 1,810% on-year",
+      "impactStars": 5,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "예상치(84.16조원)를 6.2% 웃도는 어닝서프라이즈로, 국내 반도체·AI 관련주 전반의 투자심리와 코스피 방향성을 좌우하는 핵심 이벤트다.",
+      "summaryKo": "삼성전자는 7일 2분기 잠정실적으로 매출 171조원(전년비 +129.3%), 영업이익 89.4조원(전년비 +1,810%, 약 19배)을 공시했다. 시장 컨센서스였던 영업이익 84.16조원을 6.2% 웃도는 수치로, 분기 기준 사상 최대 실적이다. AI 서버용 고대역폭메모리(HBM) 등 첨단 메모리 수요와 가격 강세가 실적을 견인했다. 세부 사업부문별 실적은 이달 말 확정 실적 발표 때 공개된다.",
+      "keyPoints": [
+        "2분기 매출 171조원(+129.3%), 영업이익 89.4조원(+1,810%, 약 19배) 잠정 공시",
+        "시장 컨센서스(84.16조원) 대비 6.2% 상회하는 어닝서프라이즈",
+        "AI 메모리(HBM) 수요·가격 강세가 실적 견인, 부문별 세부 수치는 월말 발표"
+      ],
+      "quotes": [
+        "The AI boom has sharply lifted prices and demand for high-bandwidth memory and other advanced chips."
+      ],
+      "url": "https://www.koreaherald.com/article/10800096",
+      "source": "The Korea Herald",
+      "publishedDate": "2026-07-07"
+    },
+    {
+      "company": "SK하이닉스",
+      "titleKo": "SK하이닉스, 최대 290억달러 규모 나스닥 ADR 상장 추진",
+      "titleOriginal": "Memory Chipmaker SK Hynix Kicks Off $28 Billion US Listing",
+      "impactStars": 4,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "해외 상장을 통해 글로벌 AI 투자자 접근성을 확대하는 대형 이벤트로, 성사 시 외국기업의 미국 첫 상장 사례 중 최대 규모가 될 전망이라 밸류에이션 프리미엄 요인이 될 수 있다.",
+      "summaryKo": "SK하이닉스가 나스닥 상장을 위한 주식예탁증서(ADR) 공모 마케팅을 시작했다. 보통주 약 1,779만주에 해당하는 ADR을 매각하는 방식으로, 지난 금요일 서울 종가 기준 약 280억달러 규모다. 티커는 'SKHY'로 나스닥 글로벌 셀렉트 마켓에 상장될 예정이며, 거래 개시일은 7월 10일을 목표로 하되 일정은 유동적이다. 곽노정 SK하이닉스 CEO는 국내에 100조원을 투자해 M17 공장을 내년 착공, 2029년 상반기 가동을 목표로 한다고 밝혔다.",
+      "keyPoints": [
+        "나스닥 ADR 상장 목표 7월 10일, 약 280억~290억달러 규모(일정 유동적)",
+        "성사되면 외국기업의 미국 첫 상장 중 역대 최대급 규모",
+        "국내에 100조원 투자, M17 공장 2029년 상반기 가동 목표 병행 발표"
+      ],
+      "quotes": [],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-06/memory-chipmaker-sk-hynix-starts-marketing-us-listing",
+      "source": "Bloomberg",
+      "publishedDate": "2026-07-06"
+    },
+    {
+      "company": "현대차그룹",
+      "titleKo": "현대차그룹, 보스턴다이내믹스 완전자회사화…소프트뱅크 잔여지분 3.25억달러에 인수",
+      "titleOriginal": "Hyundai to take full ownership of Boston Dynamics in SoftBank buyout",
+      "impactStars": 3,
+      "category": "중립",
+      "isRumor": false,
+      "whyItMoves": "로봇 자회사 완전 소유로 향후 IPO 추진과 옵션 부담 해소라는 긍정적 측면이 있지만, 정의선 회장의 상속세 재원 마련을 위한 지분 활용이라는 지배구조 이슈와 맞물려 시장 해석이 엇갈릴 수 있다.",
+      "summaryKo": "현대차그룹은 소프트뱅크가 보유한 보스턴다이내믹스 잔여 지분 9.65%를 3억2,500만달러에 인수해 지분율을 100%로 끌어올린다. 이는 2021년 현대차그룹이 보스턴다이내믹스 지분 80%를 약 8억8,000만달러에 인수할 당시 소프트뱅크가 보유했던 풋옵션 행사에 따른 것이다. 완전자회사화는 향후 보스턴다이내믹스의 기업공개(IPO) 추진을 앞당기는 포석으로 해석되며, 조달 자금은 정의선 회장의 상속세 납부 및 지배구조 재편에도 쓰일 수 있다는 관측이 나온다. 현대차그룹은 2028년부터 휴머노이드 로봇 '아틀라스'(대당 약 32만달러) 약 2만5,000대를 자사 공장에 투입할 계획이다.",
+      "keyPoints": [
+        "소프트뱅크 잔여지분 9.65%를 3.25억달러에 인수, 보스턴다이내믹스 지분 100% 확보",
+        "완전자회사화로 향후 보스턴다이내믹스 IPO 추진 가능성 거론",
+        "2028년부터 자사 공장에 휴머노이드 로봇 '아틀라스' 약 2만5000대 투입 계획"
+      ],
+      "quotes": [],
+      "url": "https://www.kedglobal.com/robotics/newsView/ked202606210001",
+      "source": "KED Global",
+      "publishedDate": "2026-06-21"
+    },
+    {
+      "company": "한화오션",
+      "titleKo": "한화오션, 7.8조원 규모 차기 구축함 'KDDX' 6척 건조사업 최종 수주",
+      "titleOriginal": "South Korea Selects Hanwha Ocean to Build 6 KDDX Guided Missile Destroyers for Fleet Air Defense",
+      "impactStars": 4,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "약 7.8조원 규모의 대형 국책 방산 사업을 HD현대重과의 경쟁에서 따내며 향후 10년 이상의 수주 잔고를 확보한 대형 호재다.",
+      "summaryKo": "한국 해군의 차기 구축함(KDDX) 사업자로 한화오션이 최종 선정됐다. 사업 규모는 약 7.8조원이며, 6,000~7,100톤급 구축함 6척을 2036년까지 순차 건조해 선도함은 2032년 말 인도될 예정이다. KDDX는 스텔스 선체와 통합전기추진, 한화시스템의 통합마스트, S/X 대역 이중 레이더, 해궁(K-SAAM) 함대공미사일 등을 갖춘 차세대 방공 구축함이다. HD현대중공업과의 경합에서는 보안 평가가 승부를 갈랐는데, HD현대重 소속 직원들의 과거 KDDX 설계도 무단 유출 유죄 판결에 따른 보안 감점(1.2점)이 한화오션에 약 0.59점의 우위를 준 것으로 전해졌다.",
+      "keyPoints": [
+        "약 7.8조원 규모, 구축함 6척 중 선도함은 2032년 말 인도 목표",
+        "HD현대重과 경합 끝에 보안 평가에서 우위를 점해 최종 수주",
+        "스텔스 선체·통합전기추진·해궁 미사일 등을 갖춘 차세대 방공 구축함"
+      ],
+      "quotes": [],
+      "url": "https://www.armyrecognition.com/news/navy-news/2026/south-korea-selects-hanwha-ocean-to-build-6-kddx-guided-missile-destroyers-for-fleet-air-defense",
+      "source": "Army Recognition",
+      "publishedDate": "2026-07-02"
+    },
+    {
+      "company": "쿠팡",
+      "titleKo": "美 하원 \"한국 정부, 쿠팡 표적 단속으로 한미 무역협정 위반\" 보고서 발표",
+      "titleOriginal": "'Closed for Competition': U.S. House report claims Korea singled out Coupang, other U.S. firms",
+      "impactStars": 4,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "미 의회 공식 보고서가 한국 정부의 규제 대응을 무역협정 위반으로 규정하면서, 향후 한국 내 쿠팡 관련 규제·조사 리스크가 완화될 가능성과 동시에 한미 통상 마찰로 번질 리스크가 함께 존재한다.",
+      "summaryKo": "공화당이 주도하는 미 하원 법사위원회는 '경쟁을 차단하다: 미국 소유 기업에 대한 한국의 차별적 공격'이라는 제목의 35쪽 분량 중간 보고서를 공개했다. 보고서는 2025년 데이터 유출 사건을 계기로 한국 정부가 쿠팡에 대해 수십 건의 조사, 과도한 과징금, 임원 형사처벌 위협 등 여러 부처가 조직적으로 동원된 단속 캠페인을 벌였다고 주장하며, 이는 2025년 체결된 한미 무역협정을 직접적으로 위반한다고 결론지었다.",
+      "keyPoints": [
+        "美 하원 법사위, 한국 정부의 쿠팡 단속이 한미 무역협정 위반이라는 35쪽 보고서 발표",
+        "2025년 데이터 유출 이후 다수 조사·과징금·임원 형사처벌 위협 등을 문제 삼음",
+        "한미 통상 마찰로 번질 경우 규제 리스크 완화 또는 외교 갈등, 양쪽 가능성 모두 존재"
+      ],
+      "quotes": [
+        "South Korea's discriminatory treatment of American-owned businesses directly violates its recent trade agreement with the United States."
+      ],
+      "url": "https://www.koreajoongangdaily.com/business/closed-for-competitionnbspus-house-report-claims-korea-singled-out-coupang-other-us-firms/12751387",
+      "source": "Korea JoongAng Daily (CNBC, UPI 등 동시 보도)",
+      "publishedDate": "2026-07-01"
+    },
+    {
+      "company": "크래프톤·넷마블 등 게임사",
+      "titleKo": "크래프톤·넷마블 등 게임사 7곳, 가상자산 이용한 미신고 해외송금으로 관세청 과징금",
+      "titleOriginal": "South Korea Fines Krafton, Netmarble, and Five Other Game Firms for Unreported Crypto Payments",
+      "impactStars": 2,
+      "category": "악재",
+      "isRumor": false,
+      "whyItMoves": "규제 위반 적발 자체의 재무적 임팩트는 크지 않지만, 가상자산을 활용한 해외 결제 관행에 대한 당국의 감시가 게임업계 전반으로 확대되고 있음을 보여주는 신호다.",
+      "summaryKo": "한국 관세청은 크래프톤, 넷마블, 컴투스, 카카오게임즈를 포함한 게임사 7곳이 해외 결제 과정에서 가상자산 지갑을 이용하면서 외국환거래법에 따른 신고 의무를 지키지 않았다며 과징금을 부과했다고 6월 23일 발표했다. 과징금 규모는 업체별로 수천만원에서 수억원 수준인 것으로 알려졌다. 이번 조치는 게임사들의 해외 콘텐츠·서비스 대금 결제에 가상자산이 광범위하게 쓰이고 있다는 사실과 함께, 당국이 관련 외환 신고 관행을 정조준하고 있음을 보여준다.",
+      "keyPoints": [
+        "크래프톤·넷마블·컴투스·카카오게임즈 등 7개 게임사, 외국환거래법 위반으로 과징금",
+        "가상자산 지갑을 해외송금에 사용하면서 신고 의무를 지키지 않은 것이 문제",
+        "과징금 규모는 업체별 수천만~수억원대로 알려짐"
+      ],
+      "quotes": [],
+      "url": "https://bitcoinworld.co.in/south-korea-fines-krafton-netmarble-crypto-payments/",
+      "source": "Bitcoin World (SBS Biz 등 국내 매체 인용 보도)",
+      "publishedDate": "2026-06-23"
+    },
+    {
+      "company": "삼성SDI",
+      "titleKo": "삼성SDI, 美 방산 배터리 스타트업 '포지나노'에 2000만달러 투자…관세 우회로 확보",
+      "titleOriginal": "Forge Nano Forms Landmark Strategic Partnership with Samsung SDI to Enable U.S. Production of Advanced Battery Cells",
+      "impactStars": 3,
+      "category": "중립",
+      "isRumor": false,
+      "whyItMoves": "미국 현지 생산을 통해 관세를 회피하고 국방 공급망에 진입할 발판을 마련한다는 점에서 장기적으로 긍정적이나, 투자 규모 자체는 크지 않아 즉각적인 주가 임팩트는 제한적이다.",
+      "summaryKo": "삼성SDI는 미국 배터리 스타트업 포지나노에 2,000만달러를 투자하고 기술 지원을 제공하기로 했다. 양사는 노스캐롤라이나주 모리스빌에 건설 중인 포지나노의 기가팩토리(연산 3GWh 규모, 미 에너지부 보조금 1억달러 포함 총 3억달러 투자)에서 삼성SDI 배터리 셀을 공동 생산할 계획이다. 이 공장은 2028년 가동을 목표로 하며, 삼성SDI는 2028년부터 매년 250MWh 규모의 셀을 포지나노로부터 구매하고, 포지나노는 삼성SDI 셀의 공식 미국 유통사가 된다. 이번 제휴는 미국산 셀 확보로 관세를 피하고, 공급망에서 중국산 소재를 배제하려는 미 국방 조달 규정에 대응하려는 목적이 크다.",
+      "keyPoints": [
+        "삼성SDI, 포지나노에 2000만달러 투자 및 엔지니어링 지원",
+        "노스캐롤라이나 기가팩토리(3GWh)에서 2028년부터 공동 생산 개시",
+        "미국산 셀로 관세 회피 및 국방 공급망의 탈중국 소재 규정 대응 목적"
+      ],
+      "quotes": [],
+      "url": "https://www.globenewswire.com/news-release/2026/06/25/3317520/0/en/forge-nano-forms-landmark-strategic-partnership-with-samsung-sdi-to-enable-u-s-production-of-advanced-battery-cells.html",
+      "source": "GlobeNewswire (Bloomberg 동시 보도)",
+      "publishedDate": "2026-06-25"
+    },
+    {
+      "company": "두산에너빌리티",
+      "titleKo": "두산에너빌리티, 오만서 5300억원 규모 복합화력발전소 EPC 계약 수주",
+      "titleOriginal": "Doosan Enerbility Wins $350 Million EPC Contract for Oman Power Project",
+      "impactStars": 3,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "중동 지역 발전 플랜트 수주로 해외 수주 잔고를 늘리는 안정적 호재이며, 자체 제작 스팀터빈·발전기 공급까지 포함해 마진 개선에도 기여할 수 있다.",
+      "summaryKo": "두산에너빌리티는 한국서부발전(KOWEPO) 컨소시엄과 함께 오만 두쿰 경제특구에 870MW급 복합화력발전소(CCGT)를 건설하는 EPC(설계·조달·시공) 계약을 체결했다고 6월 15일 밝혔다. 계약 규모는 약 5,300억원(3억5,000만달러)이며, 컨소시엄 파트너인 세프코-3(SEPCO-3)와 함께 전체 EPC를 수행하고 두산에너빌리티가 자체 제작한 스팀터빈과 발전기를 공급한다. 발전소는 무스카트에서 남쪽으로 약 550km 떨어진 두쿰 경제특구에 들어서며, 완공 목표는 2029년이다.",
+      "keyPoints": [
+        "오만 두쿰 870MW급 복합화력발전소 EPC 계약, 규모 약 5300억원(3.5억달러)",
+        "세프코-3와 컨소시엄 구성, 두산 자체 제작 스팀터빈·발전기 공급",
+        "2029년 완공 목표"
+      ],
+      "quotes": [],
+      "url": "https://www.muscatdaily.com/2026/06/22/s-koreas-doosan-wins-350mn-duqm-power-plant-contract/",
+      "source": "두산에너빌리티 발표 (Muscat Daily 등 보도)",
+      "publishedDate": "2026-06-15"
+    },
+    {
+      "company": "포스코홀딩스",
+      "titleKo": "포스코, '트리플 코어' 전략 공개…2035년까지 매출 187조원·리튬 톱5 목표",
+      "titleOriginal": "POSCO Holdings Unveils Triple-Core Growth and Capital Strategy at 2026 CEO Investor Day",
+      "impactStars": 3,
+      "category": "중립",
+      "isRumor": false,
+      "whyItMoves": "3년간 16.7조원 규모의 대규모 투자와 주주환원 정책(배당·자사주 35~40%) 발표로, 철강 중심에서 이차전지 소재·에너지로의 사업 재편 방향과 밸류에이션 재평가 여부가 시장의 관심사다.",
+      "summaryKo": "포스코홀딩스는 7월 2일 서울에서 연 'CEO 인베스터 데이'에서 철강·리튬(이차전지 소재)·에너지를 3대 축으로 하는 '트리플 코어' 전략을 공개했다. 2033년까지 리튬 생산량 17만3,000톤을 달성해 글로벌 톱5 생산업체로 올라서겠다는 목표를 제시했고, 2026~2028년 3년간 16조7,000억원(약 108억달러)을 투자해 2028년 연결 매출 87조9,000억원·영업이익 6조7,000억원을 달성하겠다고 밝혔다. 장기적으로는 2035년까지 매출 187조원, 영업이익 13조1,000억원을 목표로 제시했다. 아울러 조정순이익의 35~40%를 배당과 자사주 매입으로 주주에게 환원하고, 2028년까지 주가순자산비율(PBR) 1.0배 이상을 달성하겠다는 방안도 함께 내놨다. 같은 내용을 싱가포르(7/6), 홍콩(7/8)에서도 순차 설명할 예정이다.",
+      "keyPoints": [
+        "철강·리튬·에너지 3대 축 '트리플 코어' 전략 공개, 2033년 리튬 생산 17.3만톤(글로벌 톱5) 목표",
+        "2026~2028년 16.7조원 투자, 2028년 매출 87.9조원·영업이익 6.7조원 목표",
+        "조정순이익의 35~40% 주주환원, 2028년까지 PBR 1.0배 이상 달성 방침"
+      ],
+      "quotes": [],
+      "url": "https://www.kedglobal.com/corporate-strategy/newsView/ked202607020009",
+      "source": "KED Global",
+      "publishedDate": "2026-07-02"
+    },
+    {
+      "company": "LG디스플레이",
+      "titleKo": "LG디스플레이 OLED, 세계 최초 '퍼펙트 컬러·밝기' 인증 획득",
+      "titleOriginal": "LG Display OLED Becomes World's First to Achieve \"Perfect Color/Brightness\" Certification",
+      "impactStars": 2,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "실적 부진 속에서도 기술 우위를 공인받은 사례로, 프리미엄 OLED 패널의 차별화 마케팅 포인트를 확보해 향후 수주 경쟁력에 긍정적으로 작용할 수 있다.",
+      "summaryKo": "LG디스플레이의 대형 OLED 패널 전 라인업이 국제 검증기관 인터텍(Intertek)으로부터 '500럭스 조도에서 완벽한 색상·밝기 정확도' 인증을 세계 최초로 받았다. 테스트 결과 색상 정확도와 밝기 정확도 모두 100%를 기록했고, LCD 패널이 고동적범위(HDR) 콘텐츠에서 겪는 약점인 색 간섭(크로스토크) 현상도 없는 것으로 확인됐다. LG디스플레이는 올 1분기 매출이 전년 대비 9% 줄어드는 등 실적 부진을 겪고 있는 가운데, 이번 인증으로 프리미엄 OLED 시장에서의 기술 우위를 다시 한번 입증했다.",
+      "keyPoints": [
+        "인터텍으로부터 '퍼펙트 컬러·밝기' 인증을 세계 최초로 획득",
+        "색상·밝기 정확도 100%, HDR 시청 시 색 간섭 현상 없음을 확인",
+        "1분기 매출 9% 감소 등 실적 부진 속에서도 기술력 우위 재확인"
+      ],
+      "quotes": [
+        "LG Display's OLED has now been objectively proven to deliver the most accurate color and brightness even in everyday viewing environments. – Hyeon-woo Lee, Head of Large Display Business Unit, LG Display"
+      ],
+      "url": "https://www.prnewswire.com/news-releases/lg-display-oled-becomes-worlds-first-to-achieve-perfect-colorbrightness-certification-302805835.html",
+      "source": "PR Newswire (LG Display 공식 발표)",
+      "publishedDate": "2026-06-21"
+    }
+  ],
+  "summary": {
+    "scienceTop3": [
+      "미국 마이애미대 연구팀이 LIGO 중력파 신호를 '태초의 블랙홀' 충돌로 해석, 암흑물질 정체 규명에 실마리를 던진 연구",
+      "KAIST가 개발한 'AGCL 파우더', 피가 닿으면 1초 만에 젤로 굳어 심한 출혈까지 막는 지혈 신소재",
+      "Nature에 발표된 5500년 전 바이칼호 수렵채집인 무덤의 '인류 최고(最古)' 흑사병 발병 증거"
+    ],
+    "bizTop5": [
+      "삼성전자 2분기 영업이익 89.4조원, 전년비 19배 폭증한 사상 최대 실적 공시",
+      "SK하이닉스, 최대 290억달러 규모 나스닥 ADR 상장 마케팅 개시",
+      "美 하원 법사위, \"한국 정부의 쿠팡 단속은 한미 무역협정 위반\" 보고서 발표",
+      "한화오션, 7.8조원 규모 차기 구축함 KDDX 6척 건조사업 최종 수주",
+      "포스코홀딩스, '트리플 코어' 전략 공개하며 2035년 매출 187조원·리튬 톱5 목표 제시"
+    ]
+  }
+}
