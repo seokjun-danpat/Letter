@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)",
+      "Write(content/daily/**)",
+      "Write(content/weekly/**)",
+      "Write(content/monthly/**)",
+      "Edit(content/daily/**)",
+      "Edit(content/weekly/**)",
+      "Edit(content/monthly/**)"
+    ]
+  }
+}
