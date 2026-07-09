@@ -81,6 +81,36 @@ export default async function DailyPage({
           </div>
         </div>
       </section>
+
+      {issue.investorTake && (
+        <section className="rounded-xl border border-amber-200 bg-amber-50 p-5">
+          <h2 className="text-lg font-bold mb-1">
+            🎙️ 15년차 투자 전문가의 한마디
+          </h2>
+          <p className="text-sm font-semibold text-zinc-800 mb-3">
+            {issue.investorTake.headline}
+          </p>
+          <div className="flex flex-col gap-3 mb-3">
+            {issue.investorTake.picks.map((p, i) => (
+              <div
+                key={i}
+                className="rounded-lg bg-white border border-amber-100 p-3"
+              >
+                <p className="text-sm font-semibold text-amber-800">
+                  {p.company}
+                </p>
+                <p className="text-sm text-zinc-700 mt-1">{p.thesis}</p>
+              </div>
+            ))}
+          </div>
+          <p className="text-sm text-zinc-700 mb-3">
+            {issue.investorTake.closingRemark}
+          </p>
+          <p className="text-xs text-zinc-500 border-t border-amber-200 pt-2">
+            ⚠️ {issue.investorTake.disclaimer}
+          </p>
+        </section>
+      )}
     </div>
   );
 }

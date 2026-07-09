@@ -29,6 +29,18 @@ export interface BizArticle {
   publishedDate: string;
 }
 
+export interface InvestorPick {
+  company: string;
+  thesis: string; // why this name, grounded in today's articles
+}
+
+export interface InvestorTake {
+  headline: string; // one-line overall take for the day
+  picks: InvestorPick[]; // 2-4 domestic (Korean) stock ideas
+  closingRemark: string;
+  disclaimer: string; // must state this is not real investment advice
+}
+
 export interface DailyIssue {
   date: string; // primary date key, e.g. "2026-07-06"
   rangeLabel: string; // e.g. "2026년 7월 6일 (월)" or "2026년 7월 3일~6일 (금~월 통합)"
@@ -40,6 +52,7 @@ export interface DailyIssue {
     scienceTop3: string[];
     bizTop5: string[];
   };
+  investorTake?: InvestorTake; // optional: absent on issues published before this field existed
 }
 
 export interface CompanyTrend {
