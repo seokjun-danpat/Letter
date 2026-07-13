@@ -1,0 +1,280 @@
+{
+  "id": "2026-W28",
+  "label": "2026년 7월 둘째 주 (7/7~7/13)",
+  "dateRange": "2026-07-07 ~ 2026-07-13",
+  "sourceDates": ["2026-07-07", "2026-07-08", "2026-07-09", "2026-07-13"],
+  "byCompany": [
+    {
+      "company": "SK하이닉스",
+      "goodCount": 2,
+      "badCount": 0,
+      "neutralCount": 4,
+      "rumorCount": 0,
+      "trendSummary": "주 초 나스닥 ADR 상장 추진 소식으로 출발해, 청약 흥행(7배)과 주가 변동성을 거쳐 7월 10일 실제 데뷔 첫날 13% 급등까지 이어진 한 주 내내 이 회사가 주인공이었다. 265억달러 규모로 외국기업 사상 최대 미국 증시 상장을 완료하며 밸류에이션 재평가 기대를 키웠다."
+    },
+    {
+      "company": "삼성전자",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 2,
+      "rumorCount": 0,
+      "trendSummary": "2분기 영업이익이 전년비 19배 급증한 사상 최대 실적을 발표했지만, 이미 주가에 선반영됐다는 인식과 AI 거품 우려가 겹치며 오히려 급락했다. 폭락장에서도 고액자산가들의 저가 매수세가 확인됐다."
+    },
+    {
+      "company": "코스피",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "9% 폭락 이후 나흘 만에 4% 반등하며 변동성 장세를 보였고, 주 후반에는 80% 급등에도 선행 PER 6.4배로 2008년 금융위기 수준보다 낮은 역대급 저평가 국면이라는 분석이 부각됐다."
+    },
+    {
+      "company": "한화오션",
+      "goodCount": 1,
+      "badCount": 1,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "주 초 7.8조원 규모 국내 KDDX 구축함 사업을 최종 수주하며 호재를 맞았지만, 곧이어 60조원 규모 캐나다 잠수함 수주전에서 독일 TKMS에 밀려 주가가 하루 만에 23% 급락하는 극과 극의 한 주를 보냈다."
+    },
+    {
+      "company": "네이버",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 2,
+      "rumorCount": 0,
+      "trendSummary": "하반기 에이전틱 AI 수익화 경쟁을 예고했고, 2분기 사상 최대 실적이 예상됨에도 주가는 한 달간 26% 넘게 빠져 AI 수익화 증명이 관건이라는 평가가 이어졌다."
+    },
+    {
+      "company": "카카오",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 2,
+      "rumorCount": 0,
+      "trendSummary": "카카오톡의 에이전틱 AI 전환을 본격화했지만, 사상 최대 2분기 실적 전망에도 주가는 한 달간 16%가량 하락해 증권가의 신중한 시각이 이어졌다."
+    },
+    {
+      "company": "포스코홀딩스",
+      "goodCount": 0,
+      "badCount": 1,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "'트리플 코어' 전략으로 2035년까지 매출 187조원 목표를 제시했지만, 곧이어 EU의 철강 무관세 쿼터 46% 감축 소식으로 단기 수출 여건에는 경고등이 켜졌다."
+    },
+    {
+      "company": "LG에너지솔루션",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "2분기 흑자 전환에는 성공했으나 시장 컨센서스를 밑돌았고, 이후 정부의 첫 분산형 ESS 사업 운영사로 선정되며 배터리 공급자에서 에너지 플랫폼 사업자로 영역을 넓히는 계기를 마련했다."
+    },
+    {
+      "company": "삼성SDI",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "미국 방산 배터리 스타트업 투자로 관세 우회로를 확보한 데 이어, 25조원 규모 울산·천안 차세대 배터리(전고체·LFP·나트륨) 투자 계획을 발표하며 2027년 이후 실적 반등의 밑그림을 제시했다."
+    },
+    {
+      "company": "현대차그룹",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "보스턴다이내믹스 완전자회사화로 로보틱스 사업 확장 의지를 보였고, 그 결과 로보틱스가 주가 동인으로 부각되며 현대차 목표주가가 74만원에서 84만원으로 상향됐다."
+    },
+    {
+      "company": "쿠팡",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "미 하원이 한국 정부의 쿠팡 표적 단속이 한미 무역협정 위반이라는 보고서를 발표해, 오히려 쿠팡에 우호적인 외교 국면이 조성됐다."
+    },
+    {
+      "company": "크래프톤",
+      "goodCount": 0,
+      "badCount": 1,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "넷마블 등 게임사 7곳과 함께 가상자산을 이용한 미신고 해외송금으로 관세청 과징금을 부과받았다."
+    },
+    {
+      "company": "넷마블",
+      "goodCount": 0,
+      "badCount": 1,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "크래프톤 등과 함께 가상자산 미신고 해외송금 관련 관세청 과징금 대상에 포함됐다."
+    },
+    {
+      "company": "두산에너빌리티",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "오만에서 5300억원 규모 복합화력발전소 EPC 계약을 수주하며 해외 플랜트 사업 모멘텀을 이어갔다."
+    },
+    {
+      "company": "LG디스플레이",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "OLED 패널이 세계 최초로 '퍼펙트 컬러·밝기' 인증을 획득하며 기술 경쟁력을 입증했다."
+    },
+    {
+      "company": "LG전자",
+      "goodCount": 0,
+      "badCount": 1,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "AI 랠리에 올라탔던 주가가 한 달 만에 반토막나며 로보틱스·AI 테마주 조정의 직격탄을 맞았다."
+    },
+    {
+      "company": "두산로보틱스",
+      "goodCount": 0,
+      "badCount": 1,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "LG전자와 함께 AI 테마 조정으로 주가가 한 달 만에 반토막났으나, 북미 최대 로봇 전시회에서 AI 팔레타이징 솔루션을 공개하며 사업 확장은 이어갔다."
+    },
+    {
+      "company": "SK텔레콤",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "2분기 실적 전망이 KT·LG유플러스와 극명하게 엇갈리는 통신 3사 간 온도차가 부각됐다."
+    },
+    {
+      "company": "KT",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "SK텔레콤과 함께 통신 3사 실적 전망 양극화의 한 축으로 거론됐다."
+    },
+    {
+      "company": "LG유플러스",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "통신 3사 중 2분기 실적 전망이 가장 부진한 쪽으로 거론됐다."
+    },
+    {
+      "company": "LG이노텍",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "베트남 하이퐁에 1조3000억원 규모 반도체 기판 공장을 짓기로 하며 해외 생산기지 확장에 나섰다."
+    },
+    {
+      "company": "삼성물산",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "일본 인프로니어와 손잡고 글로벌 인프라 시장 공략을 위한 협력에 나섰다."
+    },
+    {
+      "company": "대한항공",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "삼성금융네트웍스와 협력해 항공·금융 융합 신사업 발굴에 나섰다."
+    },
+    {
+      "company": "에이피알",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "미국 아마존·틱톡 판매 호조에 힘입어 2분기도 역대 최대 예약 실적을 기록했다."
+    },
+    {
+      "company": "HD현대일렉트릭",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "미국 빅테크 데이터센터에 1조1212억원 규모 전력기기 장기공급 계약을 체결했다."
+    },
+    {
+      "company": "한미반도체",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "실적 공백기에도 곽동신 회장이 50억원 규모 자사주를 추가 매입하며 자신감을 보였다."
+    },
+    {
+      "company": "카카오뱅크",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "AI 데이터센터 확산이 전체 전력 소비의 76%를 차지한다는 분석과 함께 전력 인프라 이슈에 이름이 오르내렸다."
+    },
+    {
+      "company": "LG화학",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "미국 앰코에 반도체 스트리퍼를 첫 양산 공급하며 반도체 소재 시장에 처음 진출했다."
+    },
+    {
+      "company": "기아",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "PBV 로보택시 개발에 착수하며 생산은 로봇, 차량은 소프트웨어 중심으로 가는 미래 전략을 공개했다."
+    },
+    {
+      "company": "셀트리온",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "베그젤마가 미국 대형 PBM 처방집에 등재되며 두 자릿수 시장점유율을 확보, 후발주자로서 미국 시장 안착에 성공했다."
+    },
+    {
+      "company": "한화솔루션",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "자회사 큐셀이 미국 최대 태양광+ESS 프로젝트에 모듈부터 시공까지 통합 공급하며 종합 에너지 사업자로서 입지를 넓혔다."
+    },
+    {
+      "company": "SK이노베이션",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "4700조원 규모 '3대 메가프로젝트'의 전력 수요를 충족할 국내 유일의 발전·ESS·배터리·SMR 통합 기업으로 재조명받았다."
+    },
+    {
+      "company": "삼성전기",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "AI 서버용 MLCC 공급 부족 기대감에 상반기 코스피 상승률 1위(756%)를 기록하며 코스피 시가총액 순위가 33위에서 5위로 뛰어올랐다."
+    }
+  ],
+  "overallTrend": "이번 주는 'AI 반도체 슈퍼사이클'이 시장 전체를 관통했다. SK하이닉스는 나스닥 ADR 상장 추진부터 265억달러 규모 데뷔(13% 급등)까지 한 주 내내 화제의 중심이었고, 삼성전자는 사상 최대 실적에도 '재료 소진' 인식으로 주가가 하락하는 등 반도체 대장주들의 실적과 주가가 따로 노는 모습이 뚜렷했다. 그 결과 코스피는 9% 폭락과 4% 반등을 오간 끝에, 80% 급등에도 선행 PER 6.4배라는 역대급 저평가 논란으로 한 주를 마무리했다. 이차전지 업계는 LG에너지솔루션과 삼성SDI가 각각 ESS 가상발전소 사업과 25조원 규모 차세대 배터리 투자를 발표하며 단순 배터리 공급을 넘어선 사업 확장에 나섰고, 방산에서는 한화오션이 국내 KDDX 수주에는 성공했지만 캐나다 잠수함 수주전에서는 고배를 마시며 명암이 엇갈렸다. 네이버·카카오는 사상 최대 실적 전망에도 AI 수익화 증명 부담으로 주가 약세가 이어지며, AI 테마 내에서도 '실적 확인형'과 '기대 선반영형' 종목 간 차별화가 심화되는 한 주였다.",
+  "topMovers": [
+    "SK하이닉스 나스닥 상장(추진→7배 청약→265억달러 데뷔, 13% 급등)으로 한 주 내내 시장 주도",
+    "삼성전자 2분기 영업이익 19배 급증에도 '재료 소진'으로 주가 급락, 이후 저가 매수세 유입",
+    "코스피 9% 폭락→4% 반등 후, 80% 랠리에도 선행 PER 6.4배 역대 최저 밸류에이션 논란 부상",
+    "한화오션, 국내 KDDX 수주(7.8조원) 성공 직후 캐나다 잠수함 수주전(60조원)에서 패배해 주가 23% 급락",
+    "LG에너지솔루션·삼성SDI, 각각 ESS 가상발전소 사업과 25조원 차세대 배터리 투자로 이차전지 사업모델 확장"
+  ]
+}
