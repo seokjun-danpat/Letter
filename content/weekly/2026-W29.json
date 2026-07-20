@@ -1,0 +1,184 @@
+{
+  "id": "2026-W29",
+  "label": "2026년 7월 셋째 주 (7/14~7/20)",
+  "dateRange": "2026-07-14 ~ 2026-07-20",
+  "sourceDates": ["2026-07-14", "2026-07-20"],
+  "byCompany": [
+    {
+      "company": "SK하이닉스",
+      "goodCount": 1,
+      "badCount": 1,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "반도체 4종목 시총이 3주 만에 1,522조원 증발하며 'AI 투자 고점론'이 재부상해 주 초반 나스닥 ADR이 52주 최저(145.57달러)까지 밀렸으나, 바클리스의 '비중확대·목표주가 330달러' 커버리지 개시와 HSBC의 최선호주 재확인이 잇따르며 8% 반등했다."
+    },
+    {
+      "company": "쿠팡",
+      "goodCount": 0,
+      "badCount": 1,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "인천 물류센터에서 화재가 발생해 국가 소방동원령이 발동됐고, 주 마지막 날까지 50시간 넘게 진화되지 않으며 건물 붕괴 우려와 함께 수천억원대 피해·배송 차질이 우려되는 상황으로 번졌다."
+    },
+    {
+      "company": "삼성바이오로직스",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "스위스 CDMO 기업 폴리펩타이드를 약 2조4000억원(40% 프리미엄)에 전량 현금 인수하겠다고 발표하며, 항체 중심 사업을 GLP-1 비만치료제 등 펩타이드 영역까지 확장했다."
+    },
+    {
+      "company": "HD현대(HD한국조선해양)",
+      "goodCount": 2,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "슈나이더일렉트릭과 부유식 데이터센터 공동개발 MOU를 맺은 데 이어, 상반기에만 142척·163억9000만달러를 수주해 연간 목표의 70.3%를 조기에 채웠다."
+    },
+    {
+      "company": "삼성중공업",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "올해 수주액이 100억달러를 넘어서며 2021년 이후 처음으로 연간 100억달러를 돌파, 목표(139억달러)의 72%를 상반기 만에 달성했다."
+    },
+    {
+      "company": "한화오션",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "상반기 43억5000만달러를 수주해 전년 동기 대비 35% 늘었고, 북미 선주로부터 초대형원유운반선(VLCC) 2척을 추가 수주하며 캐나다 잠수함 수주전 패배의 충격을 만회했다."
+    },
+    {
+      "company": "삼성SDI",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "AI 데이터센터용 UPS 배터리로 UL Solutions의 실규모 화재 안전시험을 세계 최초로 통과하며 안전성을 핵심 경쟁력으로 내세울 근거를 확보했다."
+    },
+    {
+      "company": "LG화학",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "2035년까지 15조원 규모 R&D 투자 계획을 발표하며 전통 석유화학 사업에서 반도체·로봇·항암제 등 고부가 사업으로 포트폴리오 전환에 나섰다."
+    },
+    {
+      "company": "LG에너지솔루션",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "구글·사이프러스크릭리뉴어블스의 미국 아칸소 '스틸리버 에너지센터' 프로젝트에 배터리를 공급하기로 하며, 빅테크發 ESS 수요를 실제 장기 계약으로 확보했다."
+    },
+    {
+      "company": "두산에너빌리티",
+      "goodCount": 2,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "발전기 감시시스템 'B-EYES'를 체코 원전에 첫 해외 수출한 데 이어, 정부의 신규 원전 확대 정책과 미국의 원전 규제 완화가 겹치며 대형원전·SMR·가스터빈 '삼각편대' 수혜 구도가 부각됐다."
+    },
+    {
+      "company": "네이버",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "'AI 브리핑' CPC 광고 출시 등 하반기 에이전틱 AI 수익화에 속도를 냈지만, 동시에 개정 정보통신망법('가짜뉴스법')의 규제 대상으로 지정되며 콘텐츠 운영 리스크도 새로 안게 됐다."
+    },
+    {
+      "company": "카카오",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "통합 AI 브랜드 '카나나'를 카카오톡에 통합해 수익화에 나섰지만, 네이버와 함께 '가짜뉴스법' 규제 대상으로 지정돼 신고·조치 의무라는 새로운 규제 부담을 안게 됐다."
+    },
+    {
+      "company": "셀트리온",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "리툭시맙 바이오시밀러 '트룩시마'가 미국 FDA로부터 업계 최초로 상호교환성 지정을 받으며, 약국 단계 자동 대체 조제가 가능해져 처방 전환 속도를 끌어올릴 근거를 확보했다."
+    },
+    {
+      "company": "한화에어로스페이스",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "2040년까지 항공·우주·AI에 55조원을 투자하는 대형 계획을 발표하며 독자 우주발사체 개발과 국방 AI 데이터센터 확장에 나섰다."
+    },
+    {
+      "company": "현대로템",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "방산·철도·에코플랜트에 흩어졌던 로봇·수소 조직을 통합해 'RH 사업부'를 신설하는 조직개편을 단행했다."
+    },
+    {
+      "company": "LG이노텍",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "폴더블 디스플레이 '백플레이트' 관련 특허 30건을 출원한 사실이 확인되며 애플 폴더블 공급망 진입 포석이라는 업계 관측이 나왔으나, 실제 공급 논의 여부는 양사 모두 공식 확인하지 않았다."
+    },
+    {
+      "company": "POSCO홀딩스",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "미국 상무부 연례 반덤핑 재심에서 냉연강판에 대해 반덤핑 마진 0% 판정을 받으며 대미 수출 관세 부담을 덜었다."
+    },
+    {
+      "company": "현대제철",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "포스코와 함께 미국 냉연강판 반덤핑 마진 0% 판정을 받아 대미 수출 가격 경쟁력을 회복했다."
+    },
+    {
+      "company": "삼성전자",
+      "goodCount": 0,
+      "badCount": 0,
+      "neutralCount": 1,
+      "rumorCount": 0,
+      "trendSummary": "메모리 공급난으로 전 세계 스마트폰 출하량이 13년 만에 최저치를 기록한 가운데서도, 갤럭시S26 시리즈 흥행에 힘입어 애플을 제치고 점유율 1위(24%)를 탈환했다."
+    },
+    {
+      "company": "기아",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "카카오모빌리티와 자율주행 전용 목적기반차량(PBV) 공동 개발 파트너십을 맺고, 올해 안 PV5와 데브킷을 자율주행 시범사업에 공급하기로 했다."
+    },
+    {
+      "company": "카카오모빌리티",
+      "goodCount": 1,
+      "badCount": 0,
+      "neutralCount": 0,
+      "rumorCount": 0,
+      "trendSummary": "기아와 손잡고 로보택시·무인셔틀에 특화된 자율주행 전용차(PBV) 공동 개발에 나서며 자율주행 플랫폼 사업을 확장했다."
+    }
+  ],
+  "overallTrend": "이번 주(7/14~7/20)는 '패닉과 반등, 그리고 각자의 확장'으로 요약된다. 반도체는 SK하이닉스가 3주 만에 1,500조원 넘게 시총이 증발하는 폭락을 겪었다가, 바클리스·HSBC 등 대형 투자은행들의 잇단 반박 리포트에 힘입어 나흘 만에 반등에 성공했다. 스마트폰 업계 전체가 메모리 공급난으로 출하량 13년 최저를 기록하는 와중에도 삼성전자는 오히려 점유율 1위를 탈환하며 위기 속 상대적 경쟁력을 보여줬다. 조선업은 HD현대·삼성중공업·한화오션 3사 모두 상반기 만에 연간 수주 목표 70% 안팎을 채우며 LNG 호황의 정점을 찍었고, 이차전지·바이오는 각각 LG에너지솔루션의 구글向 배터리 공급, 삼성바이오로직스의 폴리펩타이드 인수로 빅테크·비만치료제라는 새로운 성장축을 확보했다. 원전·방산에서는 두산에너빌리티가 대형원전·SMR·가스터빈 '삼각편대' 수혜 구도로 재조명받았고, 한화에어로스페이스·한화오션도 각각 우주·조선 분야에서 대형 투자와 수주로 화답했다. 반면 쿠팡은 인천 물류센터 화재가 50시간 넘게 진화되지 않으며 실적에 직접 타격을 줄 리스크에 직면했고, 네이버·카카오는 AI 수익화 기대와 동시에 '가짜뉴스법' 규제 대상 지정이라는 새로운 리스크 변수를 안게 됐다.",
+  "topMovers": [
+    "SK하이닉스, 3주간 1,500조원 증발 폭락 후 바클리스·HSBC 리포트에 힘입어 나흘 만에 반등",
+    "쿠팡 인천 물류센터 화재, 50시간 넘게 진화 안 돼 국가 소방동원령까지 발동",
+    "삼성바이오로직스, 스위스 폴리펩타이드 전량 인수로 펩타이드·비만치료제 CDMO 진출",
+    "K-조선 3사(HD현대·삼성중공업·한화오션), 상반기 만에 연간 수주 목표 70%대 조기 달성",
+    "삼성전자, 스마트폰 시장 13년 최저 속에서도 애플 제치고 점유율 1위 탈환"
+  ]
+}
