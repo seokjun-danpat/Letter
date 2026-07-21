@@ -1,0 +1,328 @@
+{
+  "date": "2026-07-21",
+  "rangeLabel": "2026년 7월 21일 (화)",
+  "isCombined": false,
+  "coveredDates": ["2026-07-21"],
+  "science": [
+    {
+      "titleKo": "1600년 된 미라 배 위에서 발견된 호메로스의 '일리아드'",
+      "titleOriginal": "Archaeologists found Homer's Iliad inside a 1,600-year-old Egyptian mummy",
+      "oneLiner": "이집트에서 발굴된 1600년 전 미라의 배 위에서, 그리스 대서사시 '일리아드'의 한 구절이 적힌 파피루스 조각이 발견됐다.",
+      "whyItMatters": "무덤 속에 마법 주문이 아니라 '문학 작품'을 함께 묻은 경우가 발견된 건 이번이 처음이라, 옛사람들이 문학을 얼마나 소중히 여겼는지 보여주는 증거다.",
+      "summaryKo": "스페인 바르셀로나 대학 발굴팀이 이집트 옥시링쿠스라는 유적지에서 로마 시대(약 1600년 전) 미라 한 구를 발굴했어요. 그런데 미라의 배 위에 놓인 파피루스 조각을 살펴보니, 놀랍게도 고대 그리스의 유명한 서사시 '일리아드' 중에서 그리스 전사들이 트로이로 떠나는 배들의 목록을 적은 부분이 담겨 있었어요. 그동안 미라를 만들 때 함께 넣은 그리스어 파피루스는 대부분 '마법 주문'이나 '의식용 글'이었는데, 이번처럼 순수 문학 작품이 들어간 건 처음 확인된 사례예요.",
+      "keyPoints": [
+        "이집트 옥시링쿠스 유적, 2025년 11~12월 발굴된 로마시대 미라에서 발견",
+        "미라 배 위 파피루스에 일리아드의 '배들의 목록' 부분이 적혀 있었음",
+        "매장 의식에 '문학 작품'이 쓰인 첫 사례로 확인됨"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260713084918.htm",
+      "source": "ScienceDaily",
+      "publishedDate": "2026-07-15",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "AI가 예측하고 실험으로 확인한, 세상에 없던 초전도체 2종",
+      "titleOriginal": "AI just supercharged the race to find room temperature superconductors",
+      "oneLiner": "과학자들이 AI(기계학습)로 먼저 '이런 물질이 초전도체일 것'이라고 예측한 뒤, 실제로 만들어서 진짜 초전도체라는 걸 확인했다.",
+      "whyItMatters": "지금까지 115년간 발견된 초전도체 7000여 개 중 미리 예측한 뒤 만든 건 20개도 안 된다. 이번 방법을 쓰면 상온에서도 작동하는 '꿈의 초전도체'를 찾는 속도가 훨씬 빨라질 수 있다.",
+      "summaryKo": "초전도체는 전기 저항이 0이 되는 신기한 물질이에요. 문제는 아주 낮은 온도에서만 작동해서, 상온(방 온도)에서도 되는 초전도체를 찾는 게 과학자들의 오랜 꿈이었어요. 핀란드 알토대학교, 미국 라이스대학교 등 국제 연구팀은 수많은 원소 조합을 AI로 먼저 걸러낸 다음, 유망한 후보만 골라 정밀 계산을 하는 2단계 방법을 썼어요. 그 결과 'YRu3B2'와 'LuRu3B2'라는 두 신물질을 예측했고, 실제로 실험실에서 만들어 봤더니 정말로 초전도 현상이 나타났어요(다만 영하 272도 근처의 아주 낮은 온도에서요). 연구팀은 앞으로 AI로 수십억 개 물질까지 검토할 수 있을 거라고 기대해요.",
+      "keyPoints": [
+        "AI(기계학습)로 먼저 예측한 뒤 실험으로 확인된 새 초전도체 2종(YRu3B2, LuRu3B2)",
+        "'카고메 격자'라는 특수한 원자 배열 구조 덕분에 초전도 현상이 나타남",
+        "아직 초저온에서만 작동하지만, 상온 초전도체를 찾는 속도를 크게 높일 방법으로 주목"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260701205006.htm",
+      "source": "ScienceDaily (원 논문: Physical Review Research)",
+      "publishedDate": "2026-07-07",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "2만 년 전 벌들이 죽은 동물의 '빈 이빨 구멍'에 아기 집을 지었다",
+      "titleOriginal": "Ancient bees turned tooth sockets into tiny nurseries 20,000 years ago",
+      "oneLiner": "카리브해 섬의 동굴에서, 옛날 벌들이 다른 동물의 턱뼈에 남은 빈 이빨 구멍 속에 자기 새끼를 위한 진흙 집을 지었다는 화석 증거가 발견됐다.",
+      "whyItMatters": "벌이 동물 뼈 속에 둥지를 튼 사례가 화석으로 확인된 건 이번이 처음이라, 옛날 생물들이 얼마나 기발한 방식으로 살아남았는지 보여주는 재미있는 발견이다.",
+      "summaryKo": "카리브해의 히스파니올라 섬(아이티·도미니카공화국)에는 석회암 동굴이 아주 많아요. 옛날에는 올빼미들이 이 동굴에 살면서 쥐나 나무늘보 같은 먹이를 통째로 삼킨 뒤, 소화 안 된 뼈를 뭉쳐서 뱉어냈어요(펠릿이라고 해요). 시카고 필드박물관의 연구자가 이 뼈 화석들을 청소하다가, 턱뼈의 빈 이빨 구멍 안에 특이한 흙 같은 게 채워져 있는 걸 발견했어요. CT로 찍어봤더니, 놀랍게도 벌이 만드는 진흙 둥지와 똑같은 구조였고, 심지어 새끼 벌이 먹을 꽃가루까지 남아 있었어요. 벌이 동물 뼈 속에 둥지를 튼 사실이 화석으로 확인된 건 이번이 처음이에요.",
+      "keyPoints": [
+        "카리브해 히스파니올라 섬 석회암 동굴서 2만 년 전 벌 둥지 화석 발견",
+        "올빼미가 뱉어낸 동물 뼈의 '빈 이빨 구멍'을 벌이 아기 집으로 활용",
+        "CT 촬영으로 진흙 둥지 구조와 새끼가 먹을 꽃가루까지 확인"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/06/260625060216.htm",
+      "source": "ScienceDaily (원 논문: Royal Society Open Science)",
+      "publishedDate": "2026-07-05",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "미국, 밤하늘에 태양빛 쏘는 '거대 우주 거울' 시험발사 승인",
+      "titleOriginal": "Giant space mirror approved to test sunlight on demand",
+      "oneLiner": "미국 정부가 우주에 커다란 거울 위성을 띄워, 해가 진 뒤에도 태양광 발전소에 햇빛을 반사해 비추는 실험을 허가했다.",
+      "whyItMatters": "밤에도 태양광 발전을 할 수 있다는 아이디어는 매력적이지만, 과학자들은 이 거울이 비행기 조종사나 천문대, 동식물에게 예상치 못한 피해를 줄 수 있다고 우려한다.",
+      "summaryKo": "미국 스타트업 '리플렉트 오비탈'은 우주에 거울처럼 빛을 반사하는 위성을 띄워서, 해가 진 뒤에도 지상의 태양광 발전소에 햇빛을 보내주는 사업을 구상하고 있어요. 미국 연방통신위원회(FCC)는 이 회사의 첫 시험위성 '에아렌딜-1'의 발사와 운영을 허가했어요. 위성이 자리를 잡으면 가로세로 18m 크기의 거울이 펼쳐져서, 지름 약 5km 넓이의 땅에 빛을 반사할 계획이에요. 회사는 2035년까지 위성을 5만 개 넘게 띄우겠다는 목표를 갖고 있어요. 하지만 천문학자들은 거울이 방향을 바꿀 때 생기는 강한 빛이 비행기 조종사나 운전자의 눈을 부시게 하거나, 망원경 관측 장비를 망가뜨리고, 동식물의 생체리듬을 어지럽힐 수 있다고 걱정하고 있어요.",
+      "keyPoints": [
+        "美 스타트업 '리플렉트 오비탈'의 시험위성 '에아렌딜-1' 발사·운영을 FCC가 승인",
+        "18m×18m 거울로 지름 약 5km 지역에 야간 태양광 발전용 햇빛 반사 목표",
+        "2035년까지 위성 5만 개 이상 계획…과학자들은 항공안전·천문관측·생체리듬 교란 우려"
+      ],
+      "url": "https://earthsky.org/space/giant-space-mirror-approved-reflect-orbital-low-earth-orbit-concerns/",
+      "source": "EarthSky",
+      "publishedDate": "2026-07-14",
+      "originalLanguage": "영어"
+    },
+    {
+      "titleKo": "커피가 노화를 늦추는 진짜 이유, 세포 속 '스위치'에서 찾았다",
+      "titleOriginal": "Coffee may help the body fight stress and aging through a hidden cellular switch",
+      "oneLiner": "텍사스 A&M 대학 연구팀이 커피 속 성분이 카페인이 아니라 다른 물질을 통해 세포의 '노화 방지 스위치'를 켠다는 사실을 밝혀냈다.",
+      "whyItMatters": "그동안 '커피가 몸에 좋다'는 얘기는 많았지만 정확히 왜 그런지는 몰랐는데, 이번 연구가 그 이유를 세포 수준에서 설명해준다.",
+      "summaryKo": "우리 몸속에는 'NR4A1'이라는 스위치 같은 단백질이 있어요. 몸에 상처가 나거나 스트레스를 받으면 이 스위치가 켜지면서 염증을 가라앉히고 손상을 회복하는 걸 도와주는데, 나이가 들수록 이 스위치가 잘 안 켜져요. 텍사스 A&M 대학 연구팀이 커피에 들어있는 여러 성분을 실험해봤더니, 커피의 대표 성분인 카페인은 이 스위치를 잘 켜지 못했어요. 대신 커피 속 폴리페놀(카페산 등)과 커피에만 있는 특별한 성분(카웨올, 카페스톨)이 스위치를 확실하게 켜는 걸 확인했어요. 다만 이번 연구는 사람이 아니라 세포 실험 단계라서, 연구팀도 '커피를 마시면 병을 예방한다고 단정할 수는 없다'고 선을 그었어요.",
+      "keyPoints": [
+        "커피의 항노화 효과, 카페인이 아니라 폴리페놀·카웨올·카페스톨 등 다른 성분이 핵심",
+        "이 성분들이 몸속 'NR4A1'이라는 스트레스·염증 조절 스위치를 활성화시킴",
+        "아직 세포실험 단계라 '커피=질병 예방'이라고 단정하기는 이르다고 연구팀도 강조"
+      ],
+      "url": "https://www.sciencedaily.com/releases/2026/07/260719035927.htm",
+      "source": "ScienceDaily (원 논문: Nutrients)",
+      "publishedDate": "2026-07-19",
+      "originalLanguage": "영어"
+    }
+  ],
+  "business": [
+    {
+      "company": "SK하이닉스",
+      "titleKo": "SK하이닉스, 26조 5000억 원 규모 미국 뉴욕증시 데뷔…외국기업 사상 최대 IPO",
+      "titleOriginal": "SK Hynix Raises $26.5 Billion in Biggest Foreign Debut in US",
+      "impactStars": 5,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "외국 기업의 미국 증시 데뷔 사상 최대 규모의 자금조달로, SK하이닉스의 글로벌 위상과 유동성이 크게 높아졌으며 국내 반도체주 전반의 투자심리에도 영향을 줄 대형 이벤트다.",
+      "summaryKo": "SK하이닉스가 나스닥에 주식예탁증서(ADR) 방식으로 상장하며 1주당 149달러에 1억 7790만 주를 매각해 총 265억 달러(약 26조 5000억 원)를 조달했다. 이는 2014년 알리바바(250억 달러)를 뛰어넘는, 외국 기업의 미국 증시 데뷔 사상 최대 규모다. 상장 첫날 주가는 공모가 대비 13% 오른 168.01달러에 마감했으나, 이후 변동성이 커지며 다음 거래일에는 6% 넘게 급락하기도 했다.",
+      "keyPoints": [
+        "나스닥 ADR 상장, 1주당 149달러에 1억 7790만 주 매각해 265억 달러 조달",
+        "외국 기업의 美 증시 데뷔 사상 최대 규모(2014년 알리바바 250억 달러 상회)",
+        "상장 첫날 +13% 마감 후 변동성 확대, 다음 거래일 6%대 급락"
+      ],
+      "quotes": [],
+      "url": "https://www.bloomberg.com/news/articles/2026-07-09/sk-hynix-is-said-to-price-us-share-offering-at-149-apiece-mrdz562z",
+      "source": "Bloomberg, Yahoo Finance",
+      "publishedDate": "2026-07-10"
+    },
+    {
+      "company": "한화오션",
+      "titleKo": "한화오션, 60조 원 캐나다 잠수함 사업 독일에 뺏겨…주가 23% 급락",
+      "titleOriginal": "Hanwha Ocean shares sink 23% as it loses bid to build Canada's next fleet of submarines",
+      "impactStars": 4,
+      "category": "악재",
+      "isRumor": false,
+      "whyItMoves": "최대 60조 원 규모로 알려진 초대형 수주전에서 탈락하며 해외 방산 수주 모멘텀에 제동이 걸렸고, 주가가 하루 만에 20% 넘게 급락하며 투자심리에 직접 타격을 줬다.",
+      "summaryKo": "캐나다 정부가 노후 잠수함 12척을 교체하는 사업(최대 60조 원 규모로 추산)의 우선협상대상자로 한화오션 대신 독일 티센크루프마린시스템즈(TKMS)를 선정했다. 마크 카니 캐나다 총리는 TKMS의 잠수함이 40일 이상 잠항 가능한 연료전지 추진체계와 북극 운항 능력, 나토(NATO) 동맹국과의 상호운용성에서 앞섰다고 설명했다. 이 소식에 한화오션 주가는 하루 만에 23% 급락했고, 캐나다 온타리오 조선소·모호크 칼리지와 맺었던 협력 관계도 정리했다. 다만 캐나다 정부는 독일과의 협상이 결렬될 경우 한화오션과 다시 논의할 가능성은 열어뒀다.",
+      "keyPoints": [
+        "캐나다 디젤-전기 잠수함 최대 12척(최대 60조 원 규모) 사업, 독일 TKMS가 우선협상대상자로 선정",
+        "나토 상호운용성·북극 운항 능력에서 한화오션이 밀린 것으로 평가됨",
+        "발표 당일 한화오션 주가 23% 급락, 캐나다 현지 협력 파트너십도 정리"
+      ],
+      "quotes": [
+        "This was a difficult, close decision between two highly qualified suppliers. Both platforms met very high capabilities required by the Royal Canadian Navy. – Canadian PM Mark Carney"
+      ],
+      "url": "https://www.koreaherald.com/article/10800007",
+      "source": "Korea Herald, CNBC, Bloomberg",
+      "publishedDate": "2026-07-07"
+    },
+    {
+      "company": "삼성전자",
+      "titleKo": "삼성전자, 내일(7/22) 런던서 갤럭시 언팩…폴더블 신제품 3종 공개 예고",
+      "titleOriginal": "[Invitation] Galaxy Unpacked July 2026: A New Shape Unfolds",
+      "impactStars": 3,
+      "category": "중립",
+      "isRumor": false,
+      "whyItMoves": "하반기 스마트폰 판매를 좌우할 플래그십 신제품 공개 행사로, 폴더블 라인업 반응에 따라 단기 주가 모멘텀과 부품 공급망(디스플레이·배터리) 관련주 투자심리가 함께 움직일 수 있다.",
+      "summaryKo": "삼성전자는 7월 22일 영국 런던에서 '갤럭시 언팩' 행사를 열고 새로운 갤럭시 라인업을 공개한다고 예고했다. 업계에서는 커버 디스플레이 5.5인치·내부 화면 7.6인치(4:3 비율)의 새로운 와이드형 폴더블 '갤럭시 Z 폴드8', 기존 Z폴드7의 후속작인 'Z폴드8 울트라', 그리고 'Z플립8'까지 총 3종이 함께 공개될 것으로 예상되고 있다. 회사 측은 이번 신제품이 'AI 시대에 맞는 더 개인화되고 적응력 있는 경험'을 제공할 것이라고 예고했다.",
+      "keyPoints": [
+        "7월 22일 영국 런던에서 갤럭시 언팩 행사 개최 예정",
+        "Z폴드8(신규 와이드형)·Z폴드8 울트라·Z플립8 등 폴더블 3종 공개 전망",
+        "삼성 측 'AI 시대에 맞는 개인화·적응형 경험' 표방"
+      ],
+      "quotes": [],
+      "url": "https://www.gsmarena.com/samsung_unpacked_july_2026_what_to_expect-news-73793.php",
+      "source": "Samsung Newsroom, GSMArena",
+      "publishedDate": "2026-07-20"
+    },
+    {
+      "company": "대한항공",
+      "titleKo": "대한항공, 2분기 매출 사상 최대…유가 부담에 영업이익은 34% 감소",
+      "titleOriginal": "Korean Air's Q2 operating profit drops 34% despite record revenue as fuel costs take a bite",
+      "impactStars": 3,
+      "category": "중립",
+      "isRumor": false,
+      "whyItMoves": "매출은 사상 최대를 찍었지만 유가 상승으로 수익성이 나빠진 대조적인 실적으로, 시장 컨센서스는 웃돌았다는 점과 향후 유가·환율 흐름에 따라 주가 방향이 엇갈릴 수 있다.",
+      "summaryKo": "대한항공은 2분기 매출이 전년 대비 26% 늘어난 5조 2000억 원(분기 사상 최대)을 기록했다고 밝혔다. 여객 매출은 인바운드 관광객과 환승객 증가로 2조 8500억 원, 화물 매출은 반도체·K-뷰티 수출 호조로 1조 5400억 원까지 늘었다. 하지만 중동 정세 악화로 국제 유가가 오르면서 영업이익은 전년 대비 34% 줄어든 2618억 원에 그쳤다. 다만 이는 시장 예상치(624억 원)를 크게 웃도는 수치이며, 순이익은 유류비 부담으로 973억 원 손실을 기록했다. 아시아나항공과의 합병은 올해 12월 완료될 예정이다.",
+      "keyPoints": [
+        "2분기 매출 5조 2000억 원(+26%)으로 분기 사상 최대, 영업이익은 2618억 원(-34%)",
+        "국제유가 상승에 따른 유류비 부담으로 순손실 973억 원 기록",
+        "시장 컨센서스(영업이익 624억 원)는 큰 폭으로 상회"
+      ],
+      "quotes": [],
+      "url": "https://www.koreajoongangdaily.com/business/korean-airs-q2-operating-profit-drops-34-despite-record-revenue-as-fuel-costs-take-a-bite/12771513",
+      "source": "Korea JoongAng Daily, Korea Herald, UPI",
+      "publishedDate": "2026-07-13"
+    },
+    {
+      "company": "현대차·기아",
+      "titleKo": "현대차·기아, 2분기 실적 희비 갈릴 듯…현대차 영업이익 14% 감소 전망",
+      "titleOriginal": "Hyundai Motor Q2 Operating Profit Seen Falling 14%, Kia Up 1% as Same Tariff Headwinds Yield Divergent Results",
+      "impactStars": 3,
+      "category": "중립",
+      "isRumor": false,
+      "whyItMoves": "7월 23일로 예정된 실적 발표를 앞두고 나온 컨센서스로, 두 회사가 같은 관세 환경에서도 엇갈린 결과를 보일 것이란 전망이 단기 주가 향방에 영향을 줄 수 있다.",
+      "summaryKo": "시장에서는 현대차의 2분기 매출이 전년 대비 0.9% 늘어난 48조 7100억 원에 이르지만, 영업이익은 13.8% 줄어든 3조 1000억 원에 그칠 것으로 보고 있다. 국내·유럽·중동아프리카 판매 부진과 대표 SUV 싼타페 판매 둔화, 미국 내 프로모션 비용 증가가 원인으로 꼽힌다. 반면 기아는 하이브리드·RV 등 고수익 차종이 잘 팔리며 영업이익이 오히려 0.8% 늘어난 2조 7900억 원으로 방어된 것으로 분석된다. 두 회사의 실적은 7월 23일 발표될 예정이며, 신한투자증권은 3분기부터 생산차질 정상화·美 하이브리드 판매 증가·아이오닉3 유럽 출시 등이 반영되며 두 자릿수 이익 성장이 가능할 것으로 내다봤다.",
+      "keyPoints": [
+        "현대차 2분기 영업이익 컨센서스 3조 1000억 원(-13.8%), 매출은 48조 7100억 원(+0.9%)",
+        "국내 생산차질(협력사 화재)·싼타페 판매 부진·미국 프로모션 비용 증가가 부담 요인",
+        "기아는 영업이익 2조 7900억 원(+0.8%)으로 방어, 하이브리드·RV 중심 수익성 유지"
+      ],
+      "quotes": [
+        "From the third quarter onward, the normalization of production disruptions, increased US hybrid sales, new model effects, the European launch of the Ioniq 3, and tariff base effects will be reflected, making double-digit profit growth achievable. – Park Kwang-rae, Shinhan Securities"
+      ],
+      "url": "https://finance.biggo.com/news/db228187-87a6-47a1-a768-f5a92812889a",
+      "source": "BigGo Finance, Korea Herald",
+      "publishedDate": "2026-07-12"
+    },
+    {
+      "company": "셀트리온",
+      "titleKo": "셀트리온그룹, 청주에 2조 원 투자해 프리필드시린지 생산기지 신설",
+      "titleOriginal": "Celltrion to Invest 2 Trillion Won in Chungcheong",
+      "impactStars": 3,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "자가주사 편의성이 높은 프리필드시린지(PFS) 제형은 최근 바이오시밀러 시장에서 수요가 빠르게 느는 고부가 제품으로, 생산능력을 3.5배 확대하는 대규모 투자는 중장기 매출 성장 여력을 뒷받침한다.",
+      "summaryKo": "셀트리온그룹은 충북 청주에 2조 원을 투자해 프리필드시린지(PFS) 생산시설을 새로 짓는다고 발표했다. 1단계로 2028~2032년 약 1조 원을 투자해 2032년 가동을 목표로 하고, 수요에 따라 2단계 투자를 추가 진행한다는 계획이다. 이번 투자로 PFS 생산능력은 기존 연 2000만 개에서 7000만 개로 3.5배 늘어난다. 회사 측은 제형·충전·조립·포장까지 전 공정을 한 곳에서 처리하는 '원스톱 생산체계'를 구축하겠다고 밝혔다.",
+      "keyPoints": [
+        "충북 청주에 2조 원 투자, 프리필드시린지(PFS) 생산시설 신설",
+        "1단계(2028~2032년) 약 1조 원 투자로 2032년 가동 목표",
+        "PFS 생산능력 연 2000만 개→7000만 개로 3.5배 확대"
+      ],
+      "quotes": [
+        "Demand for PFS-type pharmaceuticals is rapidly increasing because they offer greater convenience and safety. – Celltrion Pharm CEO Yoo Youngho"
+      ],
+      "url": "https://www.asiae.co.kr/en/article/2026070213501950172",
+      "source": "The Asia Business Daily",
+      "publishedDate": "2026-07-02"
+    },
+    {
+      "company": "LG에너지솔루션",
+      "titleKo": "LG에너지솔루션, 정부 '배전망 ESS' 사업 운영사로 선정…VPP 사업자로 확장",
+      "titleOriginal": "LG Energy Solution Selected as Operator for Government's First Distribution Grid ESS Project",
+      "impactStars": 3,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "배터리 공급을 넘어 에너지저장장치(ESS) 운영·가상발전소(VPP) 사업자로 영역을 넓히는 첫 정부 프로젝트 수주로, 신규 수익모델 확보라는 점에서 중장기 사업다각화에 긍정적이다.",
+      "summaryKo": "LG에너지솔루션이 신한자산운용과 컨소시엄을 구성해 정부의 '2026년 AI 기반 분산에너지저장장치(ESS) 보급지원사업'의 운영사로 선정됐다. 전체 32개 배전선로 중 최대 물량인 7개 선로(호남 지역, 총 140MWh)를 맡게 됐으며, 2027년 상업 운전을 시작해 20년간 운영한다. 이 사업으로 그동안 계통 연결을 기다리던 태양광 발전설비 40MW가 전력망에 연결되고, 연간 52.4GWh의 재생에너지를 추가로 수용할 수 있게 된다. LG에너지솔루션은 배터리 공급과 ESS 구축, AI 기반 운영까지 도맡으며 '에너지 플랫폼 기업'으로 사업영역을 넓히고 있다.",
+      "keyPoints": [
+        "정부 '분산 ESS 보급지원사업' 운영사로 선정, 32개 선로 중 최대 물량인 7개 선로(140MWh) 확보",
+        "2027년 상업운전 개시, 20년간 운영…태양광 40MW 계통연결 지원 효과",
+        "배터리 공급을 넘어 ESS 구축·AI 운영까지 맡는 '에너지 플랫폼 기업'으로 확장"
+      ],
+      "quotes": [
+        "Being selected for this project is a meaningful achievement in our journey to grow beyond battery supply into an energy platform company. – Kang Changbum, Head of ESS Battery Business"
+      ],
+      "url": "https://www.asiae.co.kr/en/article/2026071014221099338",
+      "source": "The Asia Business Daily",
+      "publishedDate": "2026-07-10"
+    },
+    {
+      "company": "네이버·카카오",
+      "titleKo": "네이버·카카오, 하반기 AI 광고 수익화 속도…네이버 'AI 브리핑' 광고 오늘 출시",
+      "titleOriginal": "Naver, Kakao Ramp Up AI-Driven Advertising Push",
+      "impactStars": 3,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "AI 서비스의 실질적인 수익화 성과가 부진하다는 지적이 이어져온 만큼, 구체적인 광고 상품 출시와 매출 성장세는 밸류에이션 개선의 근거가 될 수 있다.",
+      "summaryKo": "네이버는 7월 21일부터 검색 결과 상단에 노출되는 'AI 브리핑'에 클릭당 과금(CPC) 방식의 광고를 정식 도입한다. AI 브리핑은 출시 약 1년 만에 월간 이용자 3000만 명을 모은 서비스다. 지난해 5월 선보인 'ADVoost 쇼핑'은 7개월 만에 광고주 2만 명을 확보했고, 최근에는 메타(페이스북·인스타그램·쓰레드)·크리테오 등 외부 매체까지 연동하는 '부스트업'을 선보였다. 1분기 네이버 광고 매출은 전년 대비 9.3% 늘어난 1조 3945억 원으로, 이 중 절반 이상이 AI 관련 성장분이다. 카카오도 지난달 톡스토어·선물하기 입점 판매자를 겨냥한 '커머스 카탈로그 광고'를 출시했으며, 1분기 톡비즈 광고 매출은 전년 대비 16% 늘어난 3384억 원을 기록했다.",
+      "keyPoints": [
+        "네이버, 7월 21일부터 'AI 브리핑'에 클릭당 과금(CPC) 광고 정식 도입",
+        "네이버 1분기 광고매출 1조 3945억 원(+9.3%), 성장분의 절반 이상이 AI 관련",
+        "카카오 1분기 톡비즈 광고매출 3384억 원(+16%), 커머스 광고로 영역 확장"
+      ],
+      "quotes": [
+        "Expanding external inventory could strengthen advertiser lock-in and bring the effect of redirecting external traffic back into the Naver ecosystem. – Naver CEO Choi Soo-yeon",
+        "In the second half, we will secure new growth momentum by expanding our portfolio to include commerce advertising. – KakaoTalk CEO Chung Shin-a"
+      ],
+      "url": "https://en.sedaily.com/news/2026/07/12/naver-kakao-ramp-up-ai-driven-advertising-push",
+      "source": "Seoul Economic Daily",
+      "publishedDate": "2026-07-12"
+    },
+    {
+      "company": "삼성전자·SK하이닉스",
+      "titleKo": "한국 수출, 7월 상순 역대 최고…반도체가 3배 가까이 급증",
+      "titleOriginal": "South Korea's Early-July Exports Hit Record $29.8 Billion; Semiconductors Near 38% Share",
+      "impactStars": 4,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "반도체 수출이 한국 전체 무역흑자를 사실상 홀로 떠받치고 있다는 사실이 확인되면서, AI 인프라 투자 지속에 대한 기대와 함께 국내 반도체 대형주에 대한 긍정적 심리를 뒷받침한다.",
+      "summaryKo": "관세청에 따르면 7월 1~10일 한국의 수출액이 298억 달러로, 10일 단위 집계 기준 역대 최고치를 기록했다. 전년 동기 대비 53.9% 급증한 수치로, 특히 반도체 수출은 같은 기간 거의 3배 가까이 늘어난 112억 달러에 달해 전체 수출의 37.6%를 차지했다. 반도체를 제외한 다른 업종은 대체로 무역적자 상태였던 것으로 나타나, 반도체가 수출 전체를 사실상 홀로 지탱한 셈이다. 한국은행은 AI 인프라 투자가 계속되고 공급이 빠듯한 상황이 이어지면서, 이번 반도체 호황이 '정점을 찍고 꺾이는 국면'이 아니라 상당 기간 지속될 것이라고 전망했다.",
+      "keyPoints": [
+        "7월 1~10일 수출 298억 달러, 10일 단위 집계 사상 최고(전년比 +53.9%)",
+        "반도체 수출 112억 달러로 전년 대비 약 3배 급증, 전체 수출의 37.6% 차지",
+        "한국은행, AI 인프라 투자 지속에 따른 반도체 호황 '장기화' 전망"
+      ],
+      "quotes": [],
+      "url": "https://finance.biggo.com/news/fd22a388-c784-4fe5-8463-f83bb93461e1",
+      "source": "BigGo Finance, Korea Times",
+      "publishedDate": "2026-07-13"
+    },
+    {
+      "company": "한미반도체",
+      "titleKo": "한미반도체, 5000평 규모 8공장 인수…HBM 장비 쇼티지 선제 대응",
+      "titleOriginal": "한미반도체, 5000평 8공장 품는다…'장비 쇼티지' 선제 대응",
+      "impactStars": 3,
+      "category": "호재",
+      "isRumor": false,
+      "whyItMoves": "HBM(고대역폭메모리)용 후공정 장비의 공급 부족이 예상되는 상황에서 선제적으로 생산능력을 확충하는 결정은, 반도체 장비 슈퍼사이클 수혜주로서의 위상을 강화하는 신호로 해석된다.",
+      "summaryKo": "한미반도체가 5000평(약 1만 6500㎡)이 넘는 8번째 공장을 새로 인수한다고 밝혔다. 1980년 창사 이래 가장 큰 규모의 생산시설 확장으로, 2027년부터 예상되는 HBM·AI 패키징 장비 공급 부족에 미리 대비하기 위한 조치다. 글로벌 메모리 업체와 파운드리·반도체 후공정 기업들의 설비투자(capex)가 늘어나는 데 발맞춘 결정이다. 회사는 연말 2세대 하이브리드 본더(칩과 칩을 범프 없이 직접 붙이는 장비) 시제품을 공개하고, 내년 상반기에는 이 장비 전용 생산기지인 7공장(클래스 100 클린룸)을 가동할 계획이다. 하반기에는 미국 현지 법인도 설립해 미국 AI 반도체 시장 공략에 나선다.",
+      "keyPoints": [
+        "창사 이래 최대 규모, 5000평 이상의 8번째 공장 신규 인수",
+        "2027년 예상되는 HBM·AI 패키징 장비 공급부족에 선제 대응",
+        "연말 2세대 하이브리드 본더 공개, 내년 상반기 7공장 가동…하반기 美 법인 설립"
+      ],
+      "quotes": [],
+      "url": "https://www.newspim.com/news/view/20260720000985",
+      "source": "Newspim",
+      "publishedDate": "2026-07-20"
+    }
+  ],
+  "summary": {
+    "scienceTop3": [
+      "1600년 전 이집트 미라 배 위에서 호메로스 '일리아드' 파피루스가 발견된, 문학이 매장 의식에 쓰인 첫 사례",
+      "AI(기계학습)로 먼저 예측하고 실험으로 확인한 새 초전도체 2종 발견, 상온 초전도체 탐색을 가속할 방법론",
+      "미국 정부가 승인한 '야간 태양광용 우주 거울' 시험위성, 천문학계·항공업계의 우려 속 첫 발사"
+    ],
+    "bizTop5": [
+      "SK하이닉스, 26조 5000억 원 규모 나스닥 ADR 상장으로 외국기업 사상 최대 美 증시 데뷔",
+      "한화오션, 60조 원 캐나다 잠수함 사업 독일에 뺏기며 주가 23% 급락",
+      "한국 7월 상순 수출 역대 최고치, 반도체 수출 전년 대비 3배 가까이 급증",
+      "대한항공 2분기 매출 사상 최대(+26%)에도 유가 부담으로 영업이익 34% 감소",
+      "네이버·카카오, 하반기 AI 광고 수익화 본격화…네이버 'AI 브리핑' 광고 오늘 정식 출시"
+    ]
+  },
+  "investorTake": {
+    "headline": "반도체 슈퍼사이클과 AI 인프라 투자가 지수를 끌어올리는 흐름 속에서도, 개별 이슈(수주 실패·실적 쇼크)에 따른 종목별 변동성은 여전히 크다고 본다.",
+    "picks": [
+      {
+        "company": "한미반도체",
+        "thesis": "HBM 장비 공급부족을 선제 대응하기 위한 8공장 증설(오늘 기사)은 반도체 수출 사상 최고치 기록과 맞물려, AI 반도체 장비 슈퍼사이클 수혜가 이어질 것으로 본다."
+      },
+      {
+        "company": "LG에너지솔루션",
+        "thesis": "정부 배전망 ESS 운영사 선정(오늘 기사)으로 에너지 플랫폼 기업으로의 전환이 가시화되고 있고, 미국의 '우주 거울' 야간 태양광 프로젝트 논쟁이 오히려 국내외 ESS 수요 부각으로 이어질 가능성에 무게를 둔다."
+      },
+      {
+        "company": "셀트리온",
+        "thesis": "2조 원 규모 프리필드시린지 생산기지 투자(오늘 기사)로 중장기 생산능력이 3.5배 늘어나는 만큼, 글로벌 바이오시밀러 수요 확대 국면에서 밸류에이션 매력이 있다고 본다."
+      },
+      {
+        "company": "SK하이닉스",
+        "thesis": "나스닥 ADR 상장 직후 변동성은 부담이지만(오늘 기사), 반도체 수출이 사상 최고치를 찍은 펀더멘털이 뒷받침되는 만큼 단기 조정은 매수 기회로 볼 여지가 있다고 본다."
+      }
+    ],
+    "closingRemark": "단기 변동성에 일희일비하기보다, 반도체·에너지 인프라처럼 구조적 수요가 뒷받침되는 섹터를 중심으로 접근하는 편이 낫다고 본다.",
+    "disclaimer": "이 코너는 실제 투자 조언이 아니며, 참고용 의견일 뿐 투자 손실에 대한 책임을 지지 않는다."
+  }
+}
